@@ -4580,6 +4580,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hand: {fileID: 1461659330}
+  anim: {fileID: 196793384}
 --- !u!114 &1872780197
 MonoBehaviour:
   m_ObjectHideFlags: 0
