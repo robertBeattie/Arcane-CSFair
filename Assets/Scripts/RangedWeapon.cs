@@ -16,7 +16,7 @@ public class RangedWeapon : MonoBehaviour
 
 	public void Attack() {
         if(Time.time > NextAttack) {
-            float rot = Hand.rotation.eulerAngles.z / 2;
+            float rot = Hand.rotation.eulerAngles.z;
             Projectile p = Instantiate(prefabProjectile, Hand.position, Quaternion.Euler(0, 0, rot)).GetComponent<Projectile>();
             //damage, projectile speed, hand -> owner 
             p.Set(weaponDamage, projectileSpeed, Hand.parent.gameObject);
