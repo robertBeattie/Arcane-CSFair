@@ -7,7 +7,7 @@ public class PlayerInput : MonoBehaviour
 {
     PlayerMovement movement;
     [SerializeField] Hand hand;
-    [SerializeField] RangedWeapon weapon;
+    [SerializeField] Weapon weapon;
     void Awake()
     {
         movement = GetComponent<PlayerMovement>();
