@@ -5,10 +5,10 @@ using UnityEngine.UI;
 
 public class Health : MonoBehaviour
 {
-    [SerializeField] private float health = 0f;
+    [SerializeField] private float health;
     [SerializeField] private float maxHealth = 100f;
 
-    void Awaken()
+    void Awake()
     {
         health = maxHealth;
     }

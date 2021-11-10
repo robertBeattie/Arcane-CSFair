@@ -1,0 +1,1200 @@
+fileFormatVersion: 2
+guid: 8b496273260e21c4cac4851677cb197e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8821378917581733182
+    second: Arcane 2_0
+  - first:
+      213: 4526732867629676090
+    second: Arcane 2_1
+  - first:
+      213: 6381889210041711494
+    second: Arcane 2_2
+  - first:
+      213: 8710748839849171819
+    second: Arcane 2_3
+  - first:
+      213: -5609573716753752509
+    second: Arcane 2_4
+  - first:
+      213: 8545143829566329985
+    second: Arcane 2_5
+  - first:
+      213: -8687593355674637550
+    second: Arcane 2_6
+  - first:
+      213: 6793050179499421147
+    second: Arcane 2_7
+  - first:
+      213: -6689655412083315924
+    second: Arcane 2_8
+  - first:
+      213: -6119317237343076593
+    second: Arcane 2_9
+  - first:
+      213: -3062774893488775678
+    second: Arcane 2_10
+  - first:
+      213: -3849373000366578656
+    second: Arcane 2_11
+  - first:
+      213: -1237106779080005630
+    second: Arcane 2_12
+  - first:
+      213: 2219867616551432358
+    second: Arcane 2_13
+  - first:
+      213: 7857601210788855738
+    second: Arcane 2_14
+  - first:
+      213: 3769476213450105702
+    second: Arcane 2_15
+  - first:
+      213: 3681885897326043406
+    second: Arcane 2_16
+  - first:
+      213: 1044565568755747721
+    second: Arcane 2_17
+  - first:
+      213: -4007549711208172390
+    second: Arcane 2_18
+  - first:
+      213: -4304325589209020651
+    second: Arcane 2_19
+  - first:
+      213: -8459958967819229393
+    second: Arcane 2_20
+  - first:
+      213: -2312532759683119021
+    second: Arcane 2_21
+  - first:
+      213: 642484355758768795
+    second: Arcane 2_22
+  - first:
+      213: 2317956551097649921
+    second: Arcane 2_23
+  - first:
+      213: -7970424737007918613
+    second: Arcane 2_24
+  - first:
+      213: -1685207935125113317
+    second: Arcane 2_25
+  - first:
+      213: 6038884894467472973
+    second: Arcane 2_26
+  - first:
+      213: -2443557744537112720
+    second: Arcane 2_27
+  - first:
+      213: -1809968083916754303
+    second: Arcane 2_28
+  - first:
+      213: 6354913176137285680
+    second: Arcane 2_29
+  - first:
+      213: 457566361630237152
+    second: Arcane 2_30
+  - first:
+      213: -205541700800994902
+    second: Arcane 2_31
+  - first:
+      213: -845239273504707195
+    second: Arcane 2_32
+  - first:
+      213: 7729454582504888993
+    second: Arcane 2_33
+  - first:
+      213: 6129900610863492206
+    second: Arcane 2_34
+  - first:
+      213: -4369072381829866532
+    second: Arcane 2_35
+  - first:
+      213: -2927789934752731839
+    second: Arcane 2_36
+  - first:
+      213: 5799524905450928856
+    second: Arcane 2_37
+  - first:
+      213: -2819592254071770299
+    second: Arcane 2_38
+  - first:
+      213: -2949131505332286872
+    second: Arcane 2_39
+  - first:
+      213: 1269816316364816229
+    second: Arcane 2_40
+  - first:
+      213: 3539704909563707854
+    second: Arcane 2_41
+  - first:
+      213: -3371916773097094664
+    second: Arcane 2_42
+  - first:
+      213: 4663609339191529975
+    second: Arcane 2_43
+  - first:
+      213: 6271381668741532581
+    second: Arcane 2_44
+  - first:
+      213: -6113319821084508425
+    second: Arcane 2_45
+  - first:
+      213: 1662383050250599940
+    second: Arcane 2_46
+  - first:
+      213: -8568184018996047650
+    second: Arcane 2_47
+  - first:
+      213: -8729083267828276586
+    second: Arcane 2_48
+  - first:
+      213: 1086382569676625784
+    second: Arcane 2_49
+  - first:
+      213: -5065202978683784887
+    second: Arcane 2_50
+  - first:
+      213: 1780418164389707436
+    second: Arcane 2_51
+  - first:
+      213: 5491398929380670932
+    second: Arcane 2_52
+  - first:
+      213: -1141183416713702047
+    second: Arcane 2_53
+  - first:
+      213: 5496323735539154513
+    second: Arcane 2_54
+  - first:
+      213: -781029922619207768
+    second: Arcane 2_55
+  - first:
+      213: 8765458416655733653
+    second: Arcane 2_56
+  - first:
+      213: -1573269312226840754
+    second: Arcane 2_57
+  - first:
+      213: -685300827219400377
+    second: Arcane 2_58
+  - first:
+      213: -934693514534763656
+    second: Arcane 2_59
+  - first:
+      213: 3583192792266761953
+    second: Arcane 2_60
+  - first:
+      213: -4095813656331552095
+    second: Arcane 2_61
+  - first:
+      213: -7869758294425933880
+    second: Arcane 2_62
+  - first:
+      213: 7334311508832317968
+    second: Arcane 2_63
+  - first:
+      213: 4421418967472760161
+    second: Arcane 2_64
+  - first:
+      213: -6697838498469296320
+    second: Arcane 2_65
+  - first:
+      213: -2651047784422566228
+    second: Arcane 2_66
+  - first:
+      213: 8259204577372215531
+    second: Arcane 2_67
+  - first:
+      213: -2715602344150129896
+    second: Arcane 2_68
+  - first:
+      213: -1583590634380830525
+    second: Arcane 2_69
+  - first:
+      213: 5591709994538510719
+    second: Arcane 2_70
+  - first:
+      213: -3669514140083729416
+    second: Arcane 2_71
+  - first:
+      213: 1592138595323195618
+    second: Arcane 2_72
+  - first:
+      213: 6771424371310943634
+    second: Arcane 2_73
+  - first:
+      213: -4899664364237271979
+    second: Arcane 2_74
+  - first:
+      213: -4721880183854532981
+    second: Arcane 2_75
+  - first:
+      213: 2854889000532179708
+    second: Arcane 2_76
+  - first:
+      213: 1898664537126825016
+    second: Arcane 2_77
+  - first:
+      213: 8191900691009158275
+    second: Arcane 2_78
+  - first:
+      213: 3263403978694580452
+    second: Arcane 2_79
+  - first:
+      213: -5504941739615104167
+    second: Arcane 2_80
+  - first:
+      213: -2051504867309690767
+    second: Arcane 2_81
+  - first:
+      213: -4611436373383578144
+    second: Arcane 2_82
+  - first:
+      213: -266212470852247956
+    second: Arcane 2_83
+  - first:
+      213: 51548168740868340
+    second: Arcane 2_84
+  - first:
+      213: -6571513377823458535
+    second: Arcane 2_85
+  - first:
+      213: -6632310245457251090
+    second: Arcane 2_86
+  - first:
+      213: 356489831133145156
+    second: Arcane 2_87
+  - first:
+      213: 5575545360354475899
+    second: Arcane 2_88
+  - first:
+      213: -4223343960490685415
+    second: Arcane 2_89
+  - first:
+      213: -4283189074699560435
+    second: Arcane 2_90
+  - first:
+      213: -8466123501622573390
+    second: Arcane 2_91
+  - first:
+      213: 6821758838090192760
+    second: Arcane 2_92
+  - first:
+      213: 8120936701137239952
+    second: Arcane 2_93
+  - first:
+      213: -4416810283533802891
+    second: Arcane 2_94
+  - first:
+      213: 2298761212631393501
+    second: Arcane 2_95
+  - first:
+      213: 6417133813242438254
+    second: Arcane 2_96
+  - first:
+      213: 4129628786242412704
+    second: Arcane 2_97
+  - first:
+      213: -7454151715758686929
+    second: Arcane 2_98
+  - first:
+      213: 8159643964114995533
+    second: Arcane 2_99
+  - first:
+      213: -5858169707932964756
+    second: Arcane 2_100
+  - first:
+      213: -5562462281354056082
+    second: Arcane 2_101
+  - first:
+      213: -7380229737678885128
+    second: Arcane 2_102
+  - first:
+      213: -6064529127450836315
+    second: Arcane 2_103
+  - first:
+      213: -7100543910902605132
+    second: Arcane 2_104
+  - first:
+      213: 6929322904359031749
+    second: Arcane 2_105
+  - first:
+      213: 7665978263148146646
+    second: Arcane 2_106
+  - first:
+      213: -8180020701394111220
+    second: Arcane 2_107
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcane 2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2cb64bc9a249580800000000000000
+      internalID: -8821378917581733182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36f6283f8f22de30800000000000000
+      internalID: 4526732867629676090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b3f608c66019850800000000000000
+      internalID: 6381889210041711494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b1bd61bebc2e870800000000000000
+      internalID: 8710748839849171819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e5687ec6ac622b0800000000000000
+      internalID: -5609573716753752509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1841ce3f903769670800000000000000
+      internalID: 8545143829566329985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b28f13fd77f6780800000000000000
+      internalID: -8687593355674637550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd677aa523c54e50800000000000000
+      internalID: 6793050179499421147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b210598d19923a0800000000000000
+      internalID: -6689655412083315924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0fbd38e461d31ba0800000000000000
+      internalID: -6119317237343076593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20edd9e2676de75d0800000000000000
+      internalID: -3062774893488775678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024ab29a6a7449ac0800000000000000
+      internalID: -3849373000366578656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20865bb50f9e4dee0800000000000000
+      internalID: -1237106779080005630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0f0fcf5dd8ece10800000000000000
+      internalID: 2219867616551432358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfbfbb7baecb0d60800000000000000
+      internalID: 7857601210788855738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6636af305aedf4430800000000000000
+      internalID: 3769476213450105702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01a3a557bfa81330800000000000000
+      internalID: 3681885897326043406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b4a46b9da0f7e00800000000000000
+      internalID: 1044565568755747721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94b7b345c25268c0800000000000000
+      internalID: -4007549711208172390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_19
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51782919ea6f344c0800000000000000
+      internalID: -4304325589209020651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2721cc3420389a80800000000000000
+      internalID: -8459958967819229393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35842a715bb38efd0800000000000000
+      internalID: -2312532759683119021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b924fb61e109ae800800000000000000
+      internalID: 642484355758768795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b07f0c3390b2020800000000000000
+      internalID: 2317956551097649921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be128a94eec536190800000000000000
+      internalID: -7970424737007918613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16b236cf40fc98e0800000000000000
+      internalID: -1685207935125113317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4eb43ee0dd6ec350800000000000000
+      internalID: 6038884894467472973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fe5b88d2db61ed0800000000000000
+      internalID: -2443557744537112720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_28
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182f8570e93b1e6e0800000000000000
+      internalID: -1809968083916754303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_29
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030cc1a2ddf213850800000000000000
+      internalID: 6354913176137285680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1632e7e2a995600800000000000000
+      internalID: 457566361630237152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa12a3189e4c52df0800000000000000
+      internalID: -205541700800994902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dea88eb5b1544f0800000000000000
+      internalID: -845239273504707195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_33
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa18b98df9844b60800000000000000
+      internalID: 7729454582504888993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ce7f2c028c11550800000000000000
+      internalID: 6129900610863492206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 2_35
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb9f0b21dfed53c0800000000000000
+      internalID: -4369072381829866532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
