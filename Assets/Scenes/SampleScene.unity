@@ -584,6 +584,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Sword
       objectReference: {fileID: 0}
+    - target: {fileID: 6262739000934000580, guid: 884044b1b360bcd46a4de8dcad625955, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6262739000934000583, guid: 884044b1b360bcd46a4de8dcad625955, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -630,17 +634,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 884044b1b360bcd46a4de8dcad625955, type: 3}
---- !u!114 &419850934 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6262739000934000582, guid: 884044b1b360bcd46a4de8dcad625955, type: 3}
-  m_PrefabInstance: {fileID: 419850933}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6ddfe2e775178d14fa03b3656a984e36, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!4 &419850935 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 6262739000934000583, guid: 884044b1b360bcd46a4de8dcad625955, type: 3}
@@ -7035,6 +7028,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bow
       objectReference: {fileID: 0}
+    - target: {fileID: 1597123769546562149, guid: 8c0e6ddfee5d83b428003145adf992d0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1597123769546562150, guid: 8c0e6ddfee5d83b428003145adf992d0, type: 3}
       propertyPath: m_RootOrder
       value: 2
@@ -7215,6 +7212,17 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 3755926519039433449, guid: 8269005986ca2f444beb3575b6f00afd, type: 3}
   m_PrefabInstance: {fileID: 1350703343}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1350703345 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3755926519039433446, guid: 8269005986ca2f444beb3575b6f00afd, type: 3}
+  m_PrefabInstance: {fileID: 1350703343}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12dac6d36171ba1448371243af2d8519, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1384111122
 GameObject:
   m_ObjectHideFlags: 0
@@ -9921,7 +9929,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hand: {fileID: 1461659330}
-  weapon: {fileID: 419850934}
+  weapon: {fileID: 1350703345}
 --- !u!114 &1872780197
 MonoBehaviour:
   m_ObjectHideFlags: 0
