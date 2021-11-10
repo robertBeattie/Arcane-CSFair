@@ -7,7 +7,7 @@ public class PlayerInput : MonoBehaviour
 {
     PlayerMovement movement;
     [SerializeField] Hand hand;
-    [SerializeField] RangedWeapon rangedWeapon;
+    [SerializeField] RangedWeapon weapon;
     void Awake()
     {
         movement = GetComponent<PlayerMovement>();
@@ -47,7 +47,7 @@ public class PlayerInput : MonoBehaviour
     void AttackInput() {
 		if (Input.GetButton("Fire1")) {
             //anim.Play("SwordSwing");
-            rangedWeapon.Attack();
+            weapon.Attack();
         }
 	}
 

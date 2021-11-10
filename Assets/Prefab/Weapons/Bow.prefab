@@ -45,10 +45,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12dac6d36171ba1448371243af2d8519, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  prefabProjectile: {fileID: 1688058026782910357, guid: 23ff10a59de4cca44baa07b7358dbc61, type: 3}
   weaponDamage: 10
-  projectileSpeed: 10
   weaponAttackSpeed: 0.1
+  prefabProjectile: {fileID: 1688058026782910357, guid: 23ff10a59de4cca44baa07b7358dbc61, type: 3}
+  projectileSpeed: 10
 --- !u!1 &1597123769916768908
 GameObject:
   m_ObjectHideFlags: 0
@@ -121,7 +121,7 @@ SpriteRenderer:
   m_SortingLayerID: -898059991
   m_SortingLayer: 3
   m_SortingOrder: 0
-  m_Sprite: {fileID: -1628127056967235365, guid: 81c006c15c097a14083087173a628102, type: 3}
+  m_Sprite: {fileID: -3726934114579010307, guid: 81c006c15c097a14083087173a628102, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

@@ -302,6 +302,162 @@ TextureImporter:
   - first:
       213: 59484076022801737
     second: Arcane_99
+  - first:
+      213: 5610442123201019747
+    second: Arcane 1_0
+  - first:
+      213: 5142959469460639626
+    second: Arcane 1_1
+  - first:
+      213: 6444853398451807853
+    second: Arcane 1_2
+  - first:
+      213: 710182286067001578
+    second: Arcane 1_3
+  - first:
+      213: 2214127784801311738
+    second: Arcane 1_4
+  - first:
+      213: 2737218413807320119
+    second: Arcane 1_5
+  - first:
+      213: 6302914629769578982
+    second: Arcane 1_6
+  - first:
+      213: -2876346263202618390
+    second: Arcane 1_7
+  - first:
+      213: 6818660500830175443
+    second: Arcane 1_8
+  - first:
+      213: -572058799358019560
+    second: Arcane 1_9
+  - first:
+      213: -6426217692791663567
+    second: Arcane 1_10
+  - first:
+      213: -8871901286924838384
+    second: Arcane 1_11
+  - first:
+      213: -4030952927269691020
+    second: Arcane 1_12
+  - first:
+      213: -3916878158346997855
+    second: Arcane 1_13
+  - first:
+      213: 6018490251817779579
+    second: Arcane 1_14
+  - first:
+      213: 761240582236954079
+    second: Arcane 1_15
+  - first:
+      213: -4072671803175244984
+    second: Arcane 1_16
+  - first:
+      213: -6949836635579504978
+    second: Arcane 1_17
+  - first:
+      213: -1383225353257241277
+    second: Arcane 1_18
+  - first:
+      213: 8415362752151725512
+    second: Arcane 1_19
+  - first:
+      213: 7716996329980866980
+    second: Arcane 1_20
+  - first:
+      213: 2003886650923876289
+    second: Arcane 1_21
+  - first:
+      213: -1332581150961268315
+    second: Arcane 1_22
+  - first:
+      213: -8204323559322919820
+    second: Arcane 1_23
+  - first:
+      213: -4466193655793016596
+    second: Arcane 1_24
+  - first:
+      213: -5499027012009468007
+    second: Arcane 1_25
+  - first:
+      213: 1575266202857939875
+    second: Arcane 1_26
+  - first:
+      213: 7112635691249094946
+    second: Arcane 1_27
+  - first:
+      213: -21967569340065657
+    second: Arcane 1_28
+  - first:
+      213: 5804010098071408081
+    second: Arcane 1_29
+  - first:
+      213: -2835640461755227746
+    second: Arcane 1_30
+  - first:
+      213: 3004339671565904853
+    second: Arcane 1_31
+  - first:
+      213: -7189560553664196136
+    second: Arcane 1_32
+  - first:
+      213: -4507787356069606022
+    second: Arcane 1_33
+  - first:
+      213: -2481893342352612449
+    second: Arcane 1_34
+  - first:
+      213: -2127628350829952218
+    second: Arcane 1_35
+  - first:
+      213: -8601362203801717863
+    second: Arcane 1_36
+  - first:
+      213: -4485054377677833332
+    second: Arcane 1_37
+  - first:
+      213: 7768941454590712361
+    second: Arcane 1_38
+  - first:
+      213: 3277103860411218026
+    second: Arcane 1_39
+  - first:
+      213: -3371200791739575884
+    second: Arcane 1_40
+  - first:
+      213: -7148599866325998221
+    second: Arcane 1_41
+  - first:
+      213: -8663790035194434066
+    second: Arcane 1_42
+  - first:
+      213: 2607228848499920940
+    second: Arcane 1_43
+  - first:
+      213: 6273083959109133340
+    second: Arcane 1_44
+  - first:
+      213: 1905630041355910431
+    second: Arcane 1_45
+  - first:
+      213: 5907011823734368259
+    second: Arcane 1_46
+  - first:
+      213: 8890604542267715927
+    second: Arcane 1_47
+  - first:
+      213: 162749571796409577
+    second: Arcane 1_48
+  - first:
+      213: -3078202472660199350
+    second: Arcane 1_49
+  - first:
+      213: 1305874696846494380
+    second: Arcane 1_50
+  - first:
+      213: 9075959393673903812
+    second: Arcane 1_51
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -403,7 +559,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Arcane_0
+      name: Arcane 1_0
       rect:
         serializedVersion: 2
         x: 16
@@ -417,14 +573,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 31b82529d3fca7670800000000000000
-      internalID: 8537363906989034259
+      spriteID: 36ff84ab26b4cdd40800000000000000
+      internalID: 5610442123201019747
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_1
+      name: Arcane 1_1
       rect:
         serializedVersion: 2
         x: 32
@@ -438,14 +594,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7a7ab720805aaeb0800000000000000
-      internalID: -4707861949109863811
+      spriteID: a8fce6f83667f5740800000000000000
+      internalID: 5142959469460639626
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_2
+      name: Arcane 1_2
       rect:
         serializedVersion: 2
         x: 48
@@ -459,14 +615,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15945e5f481f93bc0800000000000000
-      internalID: -3802742856974251695
+      spriteID: d6660340508b07950800000000000000
+      internalID: 6444853398451807853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_3
+      name: Arcane 1_3
       rect:
         serializedVersion: 2
         x: 64
@@ -480,14 +636,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 44545e7d5f0f58b80800000000000000
-      internalID: -8393037391855270588
+      spriteID: ae86cc6c6031bd900800000000000000
+      internalID: 710182286067001578
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_4
+      name: Arcane 1_4
       rect:
         serializedVersion: 2
         x: 80
@@ -501,14 +657,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 168d78e0f2bf468c0800000000000000
-      internalID: -4006801588927080351
+      spriteID: afb97644d792abe10800000000000000
+      internalID: 2214127784801311738
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_5
+      name: Arcane 1_5
       rect:
         serializedVersion: 2
         x: 96
@@ -522,14 +678,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 733fffa54aeb32310800000000000000
-      internalID: 1379155524016141111
+      spriteID: 73cb4ab15ad8cf520800000000000000
+      internalID: 2737218413807320119
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_6
+      name: Arcane 1_6
       rect:
         serializedVersion: 2
         x: 112
@@ -543,14 +699,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0b1668390077f8610800000000000000
-      internalID: 1625648834862801328
+      spriteID: 6e947052673787750800000000000000
+      internalID: 6302914629769578982
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_7
+      name: Arcane 1_7
       rect:
         serializedVersion: 2
         x: 128
@@ -564,14 +720,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ea663e08288cc860800000000000000
-      internalID: 7551560380811995874
+      spriteID: ae329ca205a2518d0800000000000000
+      internalID: -2876346263202618390
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_8
+      name: Arcane 1_8
       rect:
         serializedVersion: 2
         x: 144
@@ -585,14 +741,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 39454d907afe3be30800000000000000
-      internalID: 4518218351886226579
+      spriteID: 3d048f3499fb0ae50800000000000000
+      internalID: 6818660500830175443
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_9
+      name: Arcane 1_9
       rect:
         serializedVersion: 2
         x: 16
@@ -606,14 +762,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 071750c8766b79b50800000000000000
-      internalID: 6599944334781804912
+      spriteID: 818f0a98d83af08f0800000000000000
+      internalID: -572058799358019560
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_10
+      name: Arcane 1_10
       rect:
         serializedVersion: 2
         x: 32
@@ -627,14 +783,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6a4a9e78307df9b0800000000000000
-      internalID: -5044752619640567188
+      spriteID: 13492d35e0d71d6a0800000000000000
+      internalID: -6426217692791663567
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_11
+      name: Arcane 1_11
       rect:
         serializedVersion: 2
         x: 48
@@ -648,14 +804,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4d4defddbb084e6e0800000000000000
-      internalID: -1809179605924391724
+      spriteID: 01a938ee8cca0e480800000000000000
+      internalID: -8871901286924838384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_12
+      name: Arcane 1_12
       rect:
         serializedVersion: 2
         x: 64
@@ -669,14 +825,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8df6d646f5e4b480800000000000000
-      internalID: -8884223318981935730
+      spriteID: 471e4c76bad2f08c0800000000000000
+      internalID: -4030952927269691020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_13
+      name: Arcane 1_13
       rect:
         serializedVersion: 2
         x: 80
@@ -690,14 +846,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e9fcda13616de8d0800000000000000
-      internalID: -2815487113756345881
+      spriteID: 1afad37411474a9c0800000000000000
+      internalID: -3916878158346997855
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_14
+      name: Arcane 1_14
       rect:
         serializedVersion: 2
         x: 96
@@ -711,14 +867,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 727e39dfc9ed7d6d0800000000000000
-      internalID: -2965657063749589209
+      spriteID: b7100c72ff8f58350800000000000000
+      internalID: 6018490251817779579
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_15
+      name: Arcane 1_15
       rect:
         serializedVersion: 2
         x: 112
@@ -732,14 +888,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a863d61a66ac22f0800000000000000
-      internalID: -996238442976024410
+      spriteID: fdd58dcb648709a00800000000000000
+      internalID: 761240582236954079
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_16
+      name: Arcane 1_16
       rect:
         serializedVersion: 2
         x: 128
@@ -753,14 +909,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1153dd96e89aeef0800000000000000
-      internalID: -78081927267790566
+      spriteID: 84b6dfca296fa77c0800000000000000
+      internalID: -4072671803175244984
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_17
+      name: Arcane 1_17
       rect:
         serializedVersion: 2
         x: 144
@@ -774,14 +930,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 93ab5727b69007240800000000000000
-      internalID: 4787336760981305913
+      spriteID: ea6a949d6683d8f90800000000000000
+      internalID: -6949836635579504978
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_18
+      name: Arcane 1_18
       rect:
         serializedVersion: 2
         x: 0
@@ -795,14 +951,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2618bba3caeccb6a0800000000000000
-      internalID: -6432038928676847262
+      spriteID: 345b9ceaedbcdcce0800000000000000
+      internalID: -1383225353257241277
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_19
+      name: Arcane 1_19
       rect:
         serializedVersion: 2
         x: 16
@@ -816,14 +972,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4c22b29e1c17f890800000000000000
-      internalID: -7424434543061226421
+      spriteID: 8c5ae0a26df59c470800000000000000
+      internalID: 8415362752151725512
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_20
+      name: Arcane 1_20
       rect:
         serializedVersion: 2
         x: 32
@@ -837,14 +993,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 41d0f72f8bcf27ff0800000000000000
-      internalID: -39691575420318444
+      spriteID: 4a1b0859647481b60800000000000000
+      internalID: 7716996329980866980
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_21
+      name: Arcane 1_21
       rect:
         serializedVersion: 2
         x: 48
@@ -858,14 +1014,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db42d61ed6f2aadc0800000000000000
-      internalID: -3627034400913546051
+      spriteID: 1cff67eba4c3fcb10800000000000000
+      internalID: 2003886650923876289
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_22
+      name: Arcane 1_22
       rect:
         serializedVersion: 2
         x: 64
@@ -879,14 +1035,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ee4a5e0858a569b70800000000000000
-      internalID: 8905404842611418350
+      spriteID: 5a98296e088b18de0800000000000000
+      internalID: -1332581150961268315
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_23
+      name: Arcane 1_23
       rect:
         serializedVersion: 2
         x: 80
@@ -900,35 +1056,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 70fc819890c0f6b80800000000000000
-      internalID: -8399481544928342265
+      spriteID: 47c5030f033642e80800000000000000
+      internalID: -8204323559322919820
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_24
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 112
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 459deefafa70e7ae0800000000000000
-      internalID: -1549792770616534700
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_25
+      name: Arcane 1_24
       rect:
         serializedVersion: 2
         x: 0
@@ -942,14 +1077,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: da0cfb4a99862ce20800000000000000
-      internalID: 3369370480329867437
+      spriteID: ce0aa507884e402c0800000000000000
+      internalID: -4466193655793016596
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_26
+      name: Arcane 1_25
       rect:
         serializedVersion: 2
         x: 16
@@ -963,14 +1098,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e03347eebd158340800000000000000
-      internalID: 4865327678204621030
+      spriteID: 99fd5e251188fa3b0800000000000000
+      internalID: -5499027012009468007
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_27
+      name: Arcane 1_26
       rect:
         serializedVersion: 2
         x: 32
@@ -984,14 +1119,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de98fd66c9be8ad70800000000000000
-      internalID: 9054746107801733613
+      spriteID: 3a3a600f3487cd510800000000000000
+      internalID: 1575266202857939875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_28
+      name: Arcane 1_27
       rect:
         serializedVersion: 2
         x: 48
@@ -1005,14 +1140,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a6ab50163b71a350800000000000000
-      internalID: 6026233248531326633
+      spriteID: 221daa11a7825b260800000000000000
+      internalID: 7112635691249094946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_29
+      name: Arcane 1_28
       rect:
         serializedVersion: 2
         x: 64
@@ -1026,14 +1161,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9fcd33c413e8dc2d0800000000000000
-      internalID: -3256790613135991559
+      spriteID: 78818e0bc94f1bff0800000000000000
+      internalID: -21967569340065657
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_30
+      name: Arcane 1_29
       rect:
         serializedVersion: 2
         x: 80
@@ -1047,14 +1182,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0da35deb7ed778880800000000000000
-      internalID: -8608773728402851120
+      spriteID: 1dd8358ee6cfb8050800000000000000
+      internalID: 5804010098071408081
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_31
+      name: Arcane 1_30
       rect:
         serializedVersion: 2
         x: 96
@@ -1068,14 +1203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e7fedcdd459a0b00800000000000000
-      internalID: 795612445834934246
+      spriteID: e91ea5e1608c5a8d0800000000000000
+      internalID: -2835640461755227746
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_32
+      name: Arcane 1_31
       rect:
         serializedVersion: 2
         x: 112
@@ -1089,14 +1224,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6e68d845df0c03070800000000000000
-      internalID: 8084173525407860454
+      spriteID: 5dbac4c730f81b920800000000000000
+      internalID: 3004339671565904853
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_33
+      name: Arcane 1_32
       rect:
         serializedVersion: 2
         x: 128
@@ -1110,455 +1245,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7f4c457d02373a7e0800000000000000
-      internalID: -1755432844855556873
+      spriteID: 8d15fa3b4cc893c90800000000000000
+      internalID: -7189560553664196136
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_34
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 77e44c741b5a28390800000000000000
-      internalID: -7817503822329917833
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_35
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bf096319aa2f8b8a0800000000000000
-      internalID: -6289010065228263173
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_36
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f93aa222b9c3f5410800000000000000
-      internalID: 1467958640536888223
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_37
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 31b4bfa4b62d587d0800000000000000
-      internalID: -2916693825391211757
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_38
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7294149b2ee2f8a20800000000000000
-      internalID: 3066721422568147239
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_39
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d26f156ffeac087c0800000000000000
-      internalID: -4071030931164367315
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_40
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e141e8af00319d6f0800000000000000
-      internalID: -659474975508524002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_41
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 488647c24964c38f0800000000000000
-      internalID: -559494651485853564
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_42
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1a7d1bf22be180a00800000000000000
-      internalID: 722861490846160801
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_43
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 388f8d949c1d902f0800000000000000
-      internalID: -1006042379283007357
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_44
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dfca6741e6f58bdd0800000000000000
-      internalID: -2470119469218353923
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_45
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c291d262460874c30800000000000000
-      internalID: 4343581533247707436
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_46
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 57f7b59ca0b973480800000000000000
-      internalID: -8919490066353782923
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_47
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0d4738fc0f1178420800000000000000
-      internalID: 2632092233192666320
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_48
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5ebf5c58f21760a40800000000000000
-      internalID: 5334075257588677605
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_49
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71cb1b86c8d6020c0800000000000000
-      internalID: -4602558369353319401
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_50
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a482701356cb81a00800000000000000
-      internalID: 727538482620606538
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_51
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d79d0368f1c4083a0800000000000000
-      internalID: -6665243750229288579
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_52
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bd80440611bb769e0800000000000000
-      internalID: -1628127056967235365
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_53
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4bbf347f854091f0800000000000000
-      internalID: -1040255031489610930
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_54
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 65ec589950e689170800000000000000
-      internalID: 8185413293075451478
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_55
+      name: Arcane 1_33
       rect:
         serializedVersion: 2
         x: 0
@@ -1572,14 +1266,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6956da85addf57260800000000000000
-      internalID: 7094855902224541078
+      spriteID: a7d497e684f1171c0800000000000000
+      internalID: -4507787356069606022
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_56
+      name: Arcane 1_34
       rect:
         serializedVersion: 2
         x: 16
@@ -1593,14 +1287,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 163373979f61b9580800000000000000
-      internalID: -8819430184538655903
+      spriteID: f936aae972b8e8dd0800000000000000
+      internalID: -2481893342352612449
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_57
+      name: Arcane 1_35
       rect:
         serializedVersion: 2
         x: 32
@@ -1614,14 +1308,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ccd0444bf863e0250800000000000000
-      internalID: 5912723351616622028
+      spriteID: 6230bbe99452972e0800000000000000
+      internalID: -2127628350829952218
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_58
+      name: Arcane 1_36
       rect:
         serializedVersion: 2
         x: 48
@@ -1635,14 +1329,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12b7615e1321e1490800000000000000
-      internalID: -7773755901288744159
+      spriteID: 9937de9c5a2d1a880800000000000000
+      internalID: -8601362203801717863
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_59
+      name: Arcane 1_37
       rect:
         serializedVersion: 2
         x: 64
@@ -1656,119 +1350,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 680c5e0a78d393660800000000000000
-      internalID: 7365986318270447750
+      spriteID: c8bb33c6ec2e1c1c0800000000000000
+      internalID: -4485054377677833332
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_60
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 39b8557acd85dd3f0800000000000000
-      internalID: -874445047916557421
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_61
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4a1dea38495d91560800000000000000
-      internalID: 7285088706089636260
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_62
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 539a1d1f5e1d56490800000000000000
-      internalID: -7753560397913675467
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_63
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: affe77baa74fa2ae0800000000000000
-      internalID: -1573176312112615430
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_64
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 245f0c6f637419870800000000000000
-      internalID: 8687803457568044354
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_65
+      name: Arcane 1_38
       rect:
         serializedVersion: 2
         x: 0
@@ -1782,14 +1371,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5b587528f66dcca0800000000000000
-      internalID: -5995022312993694885
+      spriteID: 92a9fa16713d0db60800000000000000
+      internalID: 7768941454590712361
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_66
+      name: Arcane 1_39
       rect:
         serializedVersion: 2
         x: 16
@@ -1803,14 +1392,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b31ef87f53fa14480800000000000000
-      internalID: -8916653140895342277
+      spriteID: a683fd3299c9a7d20800000000000000
+      internalID: 3277103860411218026
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_67
+      name: Arcane 1_40
       rect:
         serializedVersion: 2
         x: 32
@@ -1824,14 +1413,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63ea70011d6d057d0800000000000000
-      internalID: -2931607164012745162
+      spriteID: 4b1d8d5cdb61731d0800000000000000
+      internalID: -3371200791739575884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_68
+      name: Arcane 1_41
       rect:
         serializedVersion: 2
         x: 48
@@ -1845,14 +1434,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fba05fe107fda5fb0800000000000000
-      internalID: -4658165191912650049
+      spriteID: 375eb36eb421bcc90800000000000000
+      internalID: -7148599866325998221
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_69
+      name: Arcane 1_42
       rect:
         serializedVersion: 2
         x: 64
@@ -1866,14 +1455,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e8797f24e23062cc0800000000000000
-      internalID: -3736295343630346354
+      spriteID: eedaaaf9dd804c780800000000000000
+      internalID: -8663790035194434066
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_70
+      name: Arcane 1_43
       rect:
         serializedVersion: 2
         x: 80
@@ -1887,98 +1476,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02597b12f54c667f0800000000000000
-      internalID: -619591985850247904
+      spriteID: c201df2f2dcbe2420800000000000000
+      internalID: 2607228848499920940
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_71
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 58f3c66b07f089fe0800000000000000
-      internalID: -1182177925413453947
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_72
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3d359f93d16e8bf20800000000000000
-      internalID: 3438751328698454995
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_73
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 53e52e6dddbbf0bd0800000000000000
-      internalID: -2661702293285347787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_74
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 01850f6934fbef290800000000000000
-      internalID: -7854630403071518704
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_75
+      name: Arcane 1_44
       rect:
         serializedVersion: 2
         x: 0
@@ -1992,14 +1497,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0e87be1957b8d8c0800000000000000
-      internalID: -3974225077759144435
+      spriteID: c14a6e4ef987e0750800000000000000
+      internalID: 6273083959109133340
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_76
+      name: Arcane 1_45
       rect:
         serializedVersion: 2
         x: 16
@@ -2013,14 +1518,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 49ec8980cb14e7960800000000000000
-      internalID: 7601585496901865108
+      spriteID: f1df4581d68227a10800000000000000
+      internalID: 1905630041355910431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_77
+      name: Arcane 1_46
       rect:
         serializedVersion: 2
         x: 32
@@ -2034,14 +1539,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1efe7cae321746170800000000000000
-      internalID: 8170780023033688033
+      spriteID: 30828bdf4fbe9f150800000000000000
+      internalID: 5907011823734368259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_78
+      name: Arcane 1_47
       rect:
         serializedVersion: 2
         x: 48
@@ -2055,14 +1560,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c318fd28d8b0faf60800000000000000
-      internalID: 8047663761548345660
+      spriteID: 751775c0ab5c16b70800000000000000
+      internalID: 8890604542267715927
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_79
+      name: Arcane 1_48
       rect:
         serializedVersion: 2
         x: 64
@@ -2076,14 +1581,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 641714583ac8f8cc0800000000000000
-      internalID: -3706589334359412410
+      spriteID: 9ec954e8fd3324200800000000000000
+      internalID: 162749571796409577
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_80
+      name: Arcane 1_49
       rect:
         serializedVersion: 2
         x: 80
@@ -2097,14 +1602,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90d90926b239f2f00800000000000000
-      internalID: 1094255049020841225
+      spriteID: a481c5ef8270845d0800000000000000
+      internalID: -3078202472660199350
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_81
+      name: Arcane 1_50
       rect:
         serializedVersion: 2
         x: 96
@@ -2118,14 +1623,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c35c65295af369260800000000000000
-      internalID: 7103935442580849980
+      spriteID: caac4b23e166f1210800000000000000
+      internalID: 1305874696846494380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Arcane_82
+      name: Arcane 1_51
       rect:
         serializedVersion: 2
         x: 112
@@ -2139,260 +1644,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4fbca3166e8176a70800000000000000
-      internalID: 8820045772981193716
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_83
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9f5a6199461081c00800000000000000
-      internalID: 871448059472946681
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_84
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f743b208c89396c00800000000000000
-      internalID: 894309276618273919
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_85
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e5701038e1b837b50800000000000000
-      internalID: 6589763642936330078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_86
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 69299e448a10aace0800000000000000
-      internalID: -1393299312495455594
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_87
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2dbbe82f3e64e3a50800000000000000
-      internalID: 6502712856810535890
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_88
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 48a6e6d70b5608900800000000000000
-      internalID: 684658952053353092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_89
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 94a8af11b7cee96a0800000000000000
-      internalID: -6440450403766465975
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_90
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 656a5924430467880800000000000000
-      internalID: -8613626644099914154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_91
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4677ab9a4dca3d830800000000000000
-      internalID: 4094806515590526820
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_92
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1b38feb6162f292a0800000000000000
-      internalID: -6732051992728861775
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_93
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7d3295232a95e9510800000000000000
-      internalID: 1557781074281046999
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arcane_94
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 62b1ee231f6ccca70800000000000000
-      internalID: 8848666107120065318
+      spriteID: 4ce7dc76bf844fd70800000000000000
+      internalID: 9075959393673903812
       vertices: []
       indices: 
       edges: []
