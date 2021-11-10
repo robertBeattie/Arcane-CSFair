@@ -51,7 +51,21 @@ public class PlayerInput : MonoBehaviour
 	}
 
     void SkillInput() {
-
+        if(Input.GetKeyDown(KeyCode.Alpha1)){
+            Debug.Log("Skill 1");
+        }
+        if(Input.GetKeyDown(KeyCode.Alpha2)){
+            Debug.Log("Skill 2");
+        }
+        if(Input.GetKeyDown(KeyCode.Alpha3)){
+            Debug.Log("Skill 3");
+        }
+        if(Input.GetKeyDown(KeyCode.Alpha4)){
+            Debug.Log("Skill 4");
+        }
+        if(Input.GetKeyDown(KeyCode.Alpha5)){
+            Debug.Log("Skill 5");
+        }
     }
 
 }

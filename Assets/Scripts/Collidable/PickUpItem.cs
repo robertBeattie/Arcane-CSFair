@@ -7,7 +7,7 @@ public class PickUpItem : Collectable
 	protected override void OnColide(Collider2D coll) {
 		if (!collected) {
 			base.OnCollect();
-			Debug.Log("Picked up " + gameObject.name);
+			Debug.Log("Picked up " + gameObject.name + " by " + coll.gameObject.name);
 			GetComponentInChildren<SpriteRenderer>().enabled = false;
 		}
 
