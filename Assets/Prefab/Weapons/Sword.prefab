@@ -71,8 +71,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6ddfe2e775178d14fa03b3656a984e36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  weaponDamage: 40
-  weaponAttackSpeed: 0.3
+  weaponDamage: 5
+  weaponAttackSpeed: 0.33
   collidable:
     serializedVersion: 2
     m_Bits: 512

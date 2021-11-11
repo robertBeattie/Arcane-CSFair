@@ -44,9 +44,9 @@ GameObject:
   - component: {fileID: 940047561629328763}
   - component: {fileID: 940047561629328762}
   - component: {fileID: 940047561629328760}
+  - component: {fileID: 5441902969027092903}
   - component: {fileID: 940047561629328761}
   - component: {fileID: 940047561629328774}
-  - component: {fileID: 5441902969027092903}
   m_Layer: 9
   m_Name: Skeleton
   m_TagString: Character
@@ -147,6 +147,18 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.6875, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &5441902969027092903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 940047561629328765}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 212437863b350e4499049bed9b03d9e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &940047561629328761
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -172,19 +184,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 0
-  maxHealth: 100
---- !u!114 &5441902969027092903
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 940047561629328765}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 212437863b350e4499049bed9b03d9e8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
+  maxHealth: 13
 --- !u!1 &1759050152231666419
 GameObject:
   m_ObjectHideFlags: 0

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [RequireComponent(typeof(Movement))]
-public class AIMovementController : MonoBehaviour
+public class AIController : MonoBehaviour
 {
 	Movement movement;
 	private void Awake() {

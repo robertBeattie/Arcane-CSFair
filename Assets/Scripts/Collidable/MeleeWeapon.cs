@@ -39,7 +39,7 @@ public class MeleeWeapon : Weapon
 
     protected void OnColide(Collider2D coll) {
         if ((coll.tag == "Character") && coll.transform != owner && isAttacking) {
-            Debug.Log(gameObject.name + " hit " + coll.name);
+            //Debug.Log(gameObject.name + " hit " + coll.name);
             coll.gameObject.GetComponent<Health>().UpdateHealth(-weaponDamage);
             protectedHits.Add(coll);
         }
