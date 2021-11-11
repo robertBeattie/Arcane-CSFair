@@ -9,7 +9,7 @@ public class Projectile : Collidable
     GameObject projectileCreator;
 	protected override void OnColide(Collider2D coll) {
         if ((coll.tag == "Character" || coll.tag == "Blocking") && coll.gameObject != projectileCreator) {
-            Debug.Log(this.gameObject.name + " hit " + coll.name);
+            //Debug.Log(this.gameObject.name + " hit " + coll.name);
             if(coll.tag == "Character") {
                 coll.gameObject.GetComponent<Health>().UpdateHealth(-projectileDamage);
 
