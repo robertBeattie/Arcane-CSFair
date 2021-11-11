@@ -2,16 +2,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(Movement))]
 public class AIMovementController : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+	Movement movement;
+	private void Awake() {
+		movement = GetComponent<Movement>();
+	}
 
-    // Update is called once per frame
-    void Update()
+	void Update()
     {
         
     }

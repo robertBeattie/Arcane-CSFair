@@ -11,6 +11,7 @@ public class PlayerInput : MonoBehaviour
     void Awake()
     {
         movement = GetComponent<PlayerMovement>();
+        if (weapon == null) weapon = GetComponentInChildren<Weapon>();
     }
 
 	private void Update() {

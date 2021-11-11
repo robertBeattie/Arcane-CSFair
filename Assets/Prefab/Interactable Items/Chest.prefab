@@ -74,7 +74,7 @@ SpriteRenderer:
   m_SortingLayerID: 71240287
   m_SortingLayer: 4
   m_SortingOrder: 0
-  m_Sprite: {fileID: 8074321090990208141, guid: 81c006c15c097a14083087173a628102, type: 3}
+  m_Sprite: {fileID: -6942660037123596345, guid: 81c006c15c097a14083087173a628102, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -126,5 +126,5 @@ MonoBehaviour:
   collidable:
     serializedVersion: 2
     m_Bits: 512
-  emptyChest: {fileID: 1746406552124844773, guid: 81c006c15c097a14083087173a628102, type: 3}
+  emptyChest: {fileID: -1744481827597755799, guid: 81c006c15c097a14083087173a628102, type: 3}
   goldAmount: 5
