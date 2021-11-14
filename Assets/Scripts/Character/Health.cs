@@ -5,8 +5,8 @@ using UnityEngine.UI;
 
 public class Health : MonoBehaviour
 {
-    [SerializeField] private float health;
-    [SerializeField] private float maxHealth = 100f;
+    [SerializeField] protected float health;
+    [SerializeField] protected float maxHealth = 100f;
 
     void Awake()
     {
@@ -18,6 +18,7 @@ public class Health : MonoBehaviour
         health += mod;
         //if health <= 0 Throw onDeath Event
         if(health <= 0) {
+            health = 0;
             onDeath();
 		}
 	}
@@ -28,7 +29,7 @@ public class Health : MonoBehaviour
     public float GetMaxHealth() {
         return maxHealth;
     }
-    void onDeath() {
+    protected virtual void onDeath() {
         Destroy(this.gameObject);
 	}
 }
