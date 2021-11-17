@@ -162,12 +162,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6eaf7f11772a1eb41ba93aaff5e8ac11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerSprites: []
-  weaponSprites: []
-  weaponPrices: 
-  xpTable: 
-  gold: 0
-  experience: 0
 --- !u!4 &268098305
 Transform:
   m_ObjectHideFlags: 0
@@ -9827,17 +9821,29 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 525922006}
     m_Modifications:
+    - target: {fileID: 769168861962290617, guid: a8b6feaa087658c45a8e42233f26cb21, type: 3}
+      propertyPath: mobBehavior
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 769168861962290617, guid: a8b6feaa087658c45a8e42233f26cb21, type: 3}
+      propertyPath: movementBehavior
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 769168861962290617, guid: a8b6feaa087658c45a8e42233f26cb21, type: 3}
+      propertyPath: aggressionBehavior
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1007559607277253240, guid: a8b6feaa087658c45a8e42233f26cb21, type: 3}
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1007559607277253240, guid: a8b6feaa087658c45a8e42233f26cb21, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.47
+      value: -0.4
       objectReference: {fileID: 0}
     - target: {fileID: 1007559607277253240, guid: a8b6feaa087658c45a8e42233f26cb21, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 7.59
+      value: 1.71
       objectReference: {fileID: 0}
     - target: {fileID: 1007559607277253240, guid: a8b6feaa087658c45a8e42233f26cb21, type: 3}
       propertyPath: m_LocalPosition.z
@@ -10474,6 +10480,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1232151286}
     m_Modifications:
+    - target: {fileID: 7863134772993359476, guid: aac9c8f1d4c97104f852ce36a9e7c2a6, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7863134773644622846, guid: aac9c8f1d4c97104f852ce36a9e7c2a6, type: 3}
       propertyPath: m_Name
       value: Iron Key
@@ -10484,11 +10494,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7863134773644622847, guid: aac9c8f1d4c97104f852ce36a9e7c2a6, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -5
+      value: -5.14
       objectReference: {fileID: 0}
     - target: {fileID: 7863134773644622847, guid: aac9c8f1d4c97104f852ce36a9e7c2a6, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2
+      value: 2.14
       objectReference: {fileID: 0}
     - target: {fileID: 7863134773644622847, guid: aac9c8f1d4c97104f852ce36a9e7c2a6, type: 3}
       propertyPath: m_LocalPosition.z
