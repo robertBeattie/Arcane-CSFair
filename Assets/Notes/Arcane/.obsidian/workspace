@@ -7,11 +7,8 @@
         "id": "6569e22952fec483",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "ToDo.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ToDo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +84,7 @@
   },
   "active": "6569e22952fec483",
   "lastOpenFiles": [
-    "ToDo.md",
-    "ReadMe.md"
+    "ReadMe.md",
+    "ToDo.md"
   ]
 }

@@ -96,6 +96,9 @@ GameObject:
   - component: {fileID: 2936271975935559651}
   - component: {fileID: 2936271975935559648}
   - component: {fileID: 2936271975935559649}
+  - component: {fileID: -7418588570256339656}
+  - component: {fileID: -1147096279828572514}
+  - component: {fileID: 863205307874684097}
   m_Layer: 9
   m_Name: Player
   m_TagString: Player
@@ -223,6 +226,46 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hand: {fileID: 2936271976063154823}
   weapon: {fileID: 0}
+--- !u!114 &-7418588570256339656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2936271975935559652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bb5597dc8cf41c40909604884b5f17f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 0
+  maxHealth: 100
+--- !u!114 &-1147096279828572514
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2936271975935559652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48602b43a7d5e2b47b569ca1db37ad4b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mana: 0
+  maxMana: 100
+--- !u!114 &863205307874684097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2936271975935559652}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec92ef952c71cf242b5a984331c82629, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2936271976063154821
 GameObject:
   m_ObjectHideFlags: 0
