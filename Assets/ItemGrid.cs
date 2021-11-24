@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class ItemGrid : MonoBehaviour
 {
-    const float tileSizeWidth = 32;
-    const float tileSizeHeight = 32;
+    public const float tileSizeWidth = 32;
+    public const float tileSizeHeight = 32;
 
     InventoryItem[,] inventoryItemSlot;
 
@@ -14,14 +14,16 @@ public class ItemGrid : MonoBehaviour
     [SerializeField] int gridSizeWidth = 20;
     [SerializeField] int gridSizeHeight = 10;
 
-    [SerializeField] GameObject inventoryItemPrefab;
-
     private void Start() {
         rectTransform = GetComponent<RectTransform>();    
         Init(gridSizeWidth, gridSizeHeight);
+    }
 
-        InventoryItem inventoryItem = Instantiate(inventoryItemPrefab).GetComponent<InventoryItem>();
-        PlaceItem(inventoryItem, 2, 1);
+
+    public InventoryItem PickUpItem(int x, int y) {
+        InventoryItem toReturn = inventoryItemSlot[x, y];
+        inventoryItemSlot[x, y] = null;
+        return toReturn;
     }
 
     private void Init(int width, int height) {
@@ -49,8 +51,8 @@ public class ItemGrid : MonoBehaviour
         inventoryItemSlot[posX, posY] = inventoryItem;
 
         Vector2 position = new Vector2();
-        position.x = posX * tileSizeWidth - tileSizeWidth/2;
-        position.y = -(posY * tileSizeHeight - tileSizeHeight/2);
+        position.x = posX * tileSizeWidth; // - tileSizeWidth/2; 
+        position.y = -(posY * tileSizeHeight); // - tileSizeHeight/2);
 
         rectTransform.localPosition = position;
     }
