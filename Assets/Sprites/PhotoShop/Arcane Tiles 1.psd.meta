@@ -1,0 +1,798 @@
+fileFormatVersion: 2
+guid: 4ca294aa88975c54eb620ec83bd29c80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 443489875416506969
+    second: Arcane Tiles 1_0
+  - first:
+      213: -6780632578107623650
+    second: Arcane Tiles 1_1
+  - first:
+      213: 1870126383874396224
+    second: Arcane Tiles 1_2
+  - first:
+      213: 4515311350173490804
+    second: Arcane Tiles 1_3
+  - first:
+      213: -8381180413290702413
+    second: Arcane Tiles 1_4
+  - first:
+      213: -2806381257239931334
+    second: Arcane Tiles 1_5
+  - first:
+      213: -5950797758268227268
+    second: Arcane Tiles 1_6
+  - first:
+      213: 5325681732488701719
+    second: Arcane Tiles 1_7
+  - first:
+      213: -1054588898353413577
+    second: Arcane Tiles 1_8
+  - first:
+      213: 8049663690739330341
+    second: Arcane Tiles 1_9
+  - first:
+      213: 4262505350426923485
+    second: Arcane Tiles 1_10
+  - first:
+      213: -7157028812316713504
+    second: Arcane Tiles 1_11
+  - first:
+      213: -6540763549792343001
+    second: Arcane Tiles 1_12
+  - first:
+      213: -3690069462913827664
+    second: Arcane Tiles 1_13
+  - first:
+      213: 3530820287018265681
+    second: Arcane Tiles 1_14
+  - first:
+      213: -5123395490525887618
+    second: Arcane Tiles 1_15
+  - first:
+      213: 6907789926321711448
+    second: Arcane Tiles 1_16
+  - first:
+      213: 259216174348951322
+    second: Arcane Tiles 1_17
+  - first:
+      213: 227632333043048247
+    second: Arcane Tiles 1_18
+  - first:
+      213: 6565688901030417683
+    second: Arcane Tiles 1_19
+  - first:
+      213: 7282315642279852996
+    second: Arcane Tiles 1_20
+  - first:
+      213: -7928360964813942451
+    second: Arcane Tiles 1_21
+  - first:
+      213: -8797183911135523131
+    second: Arcane Tiles 1_22
+  - first:
+      213: 5707749701376901854
+    second: Arcane Tiles 1_23
+  - first:
+      213: -5986381865808513316
+    second: Arcane Tiles 1_24
+  - first:
+      213: -5289159514508601823
+    second: Arcane Tiles 1_25
+  - first:
+      213: -4858199577945963314
+    second: Arcane Tiles 1_26
+  - first:
+      213: 8275618042296559451
+    second: Arcane Tiles 1_27
+  - first:
+      213: -5239893798230221596
+    second: Arcane Tiles 1_28
+  - first:
+      213: -8469103563999473303
+    second: Arcane Tiles 1_29
+  - first:
+      213: -706182971906548540
+    second: Arcane Tiles 1_30
+  - first:
+      213: -4670772970611052301
+    second: Arcane Tiles 1_31
+  - first:
+      213: 2322915350617703591
+    second: Arcane Tiles 1_32
+  - first:
+      213: -8678403619700416352
+    second: Arcane Tiles 1_33
+  - first:
+      213: 5371964953184208147
+    second: Arcane Tiles 1_34
+  - first:
+      213: 4155382414326901014
+    second: Arcane Tiles 1_35
+  - first:
+      213: -2239184261047976196
+    second: Arcane Tiles 1_36
+  - first:
+      213: 8261235864569434081
+    second: Arcane Tiles 1_37
+  - first:
+      213: 1013625707689788181
+    second: Arcane Tiles 1_38
+  - first:
+      213: 4030004169158938581
+    second: Arcane Tiles 1_39
+  - first:
+      213: 8086329426952120592
+    second: Arcane Tiles 1_40
+  - first:
+      213: -1330504292615860248
+    second: Arcane Tiles 1_41
+  - first:
+      213: -8248315303050789149
+    second: Arcane Tiles 1_42
+  - first:
+      213: -3744819646202705848
+    second: Arcane Tiles 1_43
+  - first:
+      213: 7552954001774192125
+    second: Arcane Tiles 1_44
+  - first:
+      213: 8964712843764492873
+    second: Arcane Tiles 1_45
+  - first:
+      213: -5935127246562822592
+    second: Arcane Tiles 1_46
+  - first:
+      213: 8022096683498368958
+    second: Arcane Tiles 1_47
+  - first:
+      213: -3148310142733073761
+    second: Arcane Tiles 1_48
+  - first:
+      213: 5410410522509286255
+    second: Arcane Tiles 1_49
+  - first:
+      213: -3334149273035381854
+    second: Arcane Tiles 1_50
+  - first:
+      213: 5755552731709007768
+    second: Arcane Tiles 1_51
+  - first:
+      213: -612323839699706355
+    second: Arcane Tiles 1_52
+  - first:
+      213: -5087916391957142183
+    second: Arcane Tiles 1_53
+  - first:
+      213: 3091271322222471383
+    second: Arcane Tiles 1_54
+  - first:
+      213: -741082854783001263
+    second: Arcane Tiles 1_55
+  - first:
+      213: -2019465141535371031
+    second: Arcane Tiles 1_56
+  - first:
+      213: -7841920963647980006
+    second: Arcane Tiles 1_57
+  - first:
+      213: 2017323751879799365
+    second: Arcane Tiles 1_58
+  - first:
+      213: -8205041274467612501
+    second: Arcane Tiles 1_59
+  - first:
+      213: 3186371755705008411
+    second: Arcane Tiles 1_60
+  - first:
+      213: 7376650945179371408
+    second: Arcane Tiles 1_61
+  - first:
+      213: 8062064090792849786
+    second: Arcane Tiles 1_62
+  - first:
+      213: 4136025326695563797
+    second: Arcane Tiles 1_63
+  - first:
+      213: -5319956957179489866
+    second: Arcane Tiles 1_64
+  - first:
+      213: -8889882405092835959
+    second: Arcane Tiles 1_65
+  - first:
+      213: -2414239754962333186
+    second: Arcane Tiles 1_66
+  - first:
+      213: -2999528560247422286
+    second: Arcane Tiles 1_67
+  - first:
+      213: 6401643290622292114
+    second: Arcane Tiles 1_68
+  - first:
+      213: -1828374572364186351
+    second: Arcane Tiles 1_69
+  - first:
+      213: 8031440844732672382
+    second: Arcane Tiles 1_70
+  - first:
+      213: 7523028502796376272
+    second: Arcane Tiles 1_71
+  - first:
+      213: 9083230891823167866
+    second: Arcane Tiles 1_72
+  - first:
+      213: -6952422428891676727
+    second: Arcane Tiles 1_73
+  - first:
+      213: 8561603056508036900
+    second: Arcane Tiles 1_74
+  - first:
+      213: 3286893986671691553
+    second: Arcane Tiles 1_75
+  - first:
+      213: -289655713575749216
+    second: Arcane Tiles 1_76
+  - first:
+      213: -3882052442404183339
+    second: Arcane Tiles 1_77
+  - first:
+      213: 4411578801021335804
+    second: Arcane Tiles 1_78
+  - first:
+      213: 6060710918204569969
+    second: Arcane Tiles 1_79
+  - first:
+      213: 4357256205170181669
+    second: Arcane Tiles 1_80
+  - first:
+      213: 6678110192428262978
+    second: Arcane Tiles 1_81
+  - first:
+      213: -2823857241993191742
+    second: Arcane Tiles 1_82
+  - first:
+      213: 3727955109482679410
+    second: Arcane Tiles 1_83
+  - first:
+      213: -3400918080788219993
+    second: Arcane Tiles 1_84
+  - first:
+      213: -3706409720763101164
+    second: Arcane Tiles 1_85
+  - first:
+      213: 1384289148376641784
+    second: Arcane Tiles 1_86
+  - first:
+      213: -5796835651311381056
+    second: Arcane Tiles 1_87
+  - first:
+      213: 5822595329051886060
+    second: Arcane Tiles 1_88
+  - first:
+      213: -4778289960652122772
+    second: Arcane Tiles 1_89
+  - first:
+      213: 5442884256683459304
+    second: Arcane Tiles 1_90
+  - first:
+      213: -6403820669567064256
+    second: Arcane Tiles 1_91
+  - first:
+      213: -219335412330654249
+    second: Arcane Tiles 1_92
+  - first:
+      213: -207094600456280021
+    second: Arcane Tiles 1_93
+  - first:
+      213: 8493623356733934840
+    second: Arcane Tiles 1_94
+  - first:
+      213: 4284014164738563112
+    second: Arcane Tiles 1_95
+  - first:
+      213: -8594734552562226673
+    second: Arcane Tiles 1_96
+  - first:
+      213: 6752815972426184557
+    second: Arcane Tiles 1_97
+  - first:
+      213: 792673685475982876
+    second: Arcane Tiles 1_98
+  - first:
+      213: -7182400504229530230
+    second: Arcane Tiles 1_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcane Tiles 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952eea521b7972600800000000000000
+      internalID: 443489875416506969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Tiles 1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e173475789a56e1a0800000000000000
+      internalID: -6780632578107623650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Tiles 1_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0405beba90604f910800000000000000
+      internalID: 1870126383874396224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Tiles 1_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e5165ffbb99ae30800000000000000
+      internalID: 4515311350173490804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Tiles 1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9985bc1d010bb80800000000000000
+      internalID: -8381180413290702413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Tiles 1_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3656e98d1bbd09d0800000000000000
+      internalID: -2806381257239931334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Tiles 1_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c314b30b7f48a6da0800000000000000
+      internalID: -5950797758268227268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Tiles 1_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717a6cba15f98e940800000000000000
+      internalID: 5325681732488701719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Tiles 1_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73203910cf85d51f0800000000000000
+      internalID: -1054588898353413577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Tiles 1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52da0ef4a7626bf60800000000000000
+      internalID: 8049663690739330341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Tiles 1_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd116615806772b30800000000000000
+      internalID: 4262505350426923485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Tiles 1_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed50aaf6302dac90800000000000000
+      internalID: -7157028812316713504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Tiles 1_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cedc6b43a8a35a0800000000000000
+      internalID: -6540763549792343001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Tiles 1_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc3182df5d3accc0800000000000000
+      internalID: -3690069462913827664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Tiles 1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c677d085efff030800000000000000
+      internalID: 3530820287018265681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Tiles 1_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73cd5f32fa06e8b0800000000000000
+      internalID: -5123395490525887618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Tiles 1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8596d65c6566ddf50800000000000000
+      internalID: 6907789926321711448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane Tiles 1_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fda18bcbbe89300800000000000000
+      internalID: 259216174348951322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
