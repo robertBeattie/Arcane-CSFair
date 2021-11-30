@@ -8,7 +8,10 @@ public class InventoryItem : MonoBehaviour
 {
     public ItemData itemData;
 
-    public void Set(ItemData itemData) {
+    public int onGridPositionX;
+    public int onGridPositionY;
+
+    internal void Set(ItemData itemData) {
         this.itemData = itemData;
 
         GetComponent<Image>().sprite = itemData.itemIcon;;
