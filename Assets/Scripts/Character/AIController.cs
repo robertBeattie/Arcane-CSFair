@@ -33,28 +33,70 @@ public class AIController : MonoBehaviour
 	*/
 	enum MobBehavior {Solo, Local, Global};
 	[SerializeField] MobBehavior mobBehavior;
-
+	[SerializeField] Transform target;
+	Transform hand;
+	Weapon weapon;
 	Movement movement;
 	private void Awake() {
 		movement = GetComponent<Movement>();
+		hand = transform.GetChild(0).transform;
+		weapon = hand.GetChild(0).GetComponent<Weapon>();
+		if(target == null){
+			target = GameObject.FindGameObjectsWithTag("Player")[0].transform;
+		}
+
 	}
 
 	void Update()
     {
-        
+        ActionBehavior();
     }
 
 	void ActionBehavior() {
 		switch (aggressionBehavior) {
 			case AggressionBehavior.Passive:
-				Debug.Log("0");
+				RunFrom(target);
 				break;
 			case AggressionBehavior.Neutral:
 				Debug.Log("1");
 				break;
 			case AggressionBehavior.Aggressive:
-				Debug.Log("2");
+				MoveTowards(target);
 				break;
 		}
+	}
+
+
+	void MoveTowards(Transform target){
+		//chace after target
+		//Transform target;
+		float aggroRange = 7f;
+
+		Vector2 myPos = new Vector2(transform.position.x,transform.position.y);
+		Vector2 targetPos = new Vector2(target.position.x,target.position.y);
+		if(Vector2.Distance(myPos, targetPos) <= aggroRange){
+			Vector3 moveVector = (target.position - transform.position).normalized;
+			movement.Move(moveVector);
+		}
+	}
+
+	void RunFrom(Transform targt){
+		float fleeRange = 7f;
+
+		Vector2 myPos = new Vector2(transform.position.x,transform.position.y);
+		Vector2 targetPos = new Vector2(target.position.x,target.position.y);
+		if(Vector2.Distance(myPos, targetPos) <= fleeRange){
+			Vector3 moveVector = (transform.position - target.position).normalized;
+			movement.Move(moveVector);
+		}
+	}
+
+	void Attack(){
+		if (weapon == null) return;
+
+		//aim towards target
+
+		//if within weapon range 
+		//     then attack
 	}
 }

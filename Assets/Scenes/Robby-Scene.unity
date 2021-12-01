@@ -12552,6 +12552,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 525922006}
     m_Modifications:
     - target: {fileID: 769168861962290617, guid: a8b6feaa087658c45a8e42233f26cb21, type: 3}
+      propertyPath: target
+      value: 
+      objectReference: {fileID: 1872780195}
+    - target: {fileID: 769168861962290617, guid: a8b6feaa087658c45a8e42233f26cb21, type: 3}
       propertyPath: mobBehavior
       value: 1
       objectReference: {fileID: 0}
@@ -12561,7 +12565,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 769168861962290617, guid: a8b6feaa087658c45a8e42233f26cb21, type: 3}
       propertyPath: aggressionBehavior
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 1007559607277253240, guid: a8b6feaa087658c45a8e42233f26cb21, type: 3}
       propertyPath: m_RootOrder
@@ -12607,6 +12611,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1007559607277253241, guid: a8b6feaa087658c45a8e42233f26cb21, type: 3}
+      propertyPath: speed
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 1007559607277253242, guid: a8b6feaa087658c45a8e42233f26cb21, type: 3}
       propertyPath: m_Name
       value: Slime
@@ -12620,6 +12628,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 525922006}
     m_Modifications:
+    - target: {fileID: -8473246615060371989, guid: 058755ebe9ce4fb40a7bca3e1fd7c8c1, type: 3}
+      propertyPath: aggressionBehavior
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 1946134811764564792, guid: 058755ebe9ce4fb40a7bca3e1fd7c8c1, type: 3}
       propertyPath: m_Name
       value: Kobold Red

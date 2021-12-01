@@ -93,7 +93,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1946134810512698833}
   - component: {fileID: 1946134810512698861}
-  - component: {fileID: 1946134810512698834}
+  - component: {fileID: 3419866416096456546}
   m_Layer: 0
   m_Name: Dagger
   m_TagString: Untagged
@@ -142,7 +142,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.7, y: 0.25}
   m_EdgeRadius: 0
---- !u!114 &1946134810512698834
+--- !u!114 &3419866416096456546
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -151,14 +151,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 1946134810512698838}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 86fc75e81b4182e44b047605675648e8, type: 3}
+  m_Script: {fileID: 11500000, guid: 6ddfe2e775178d14fa03b3656a984e36, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   weaponDamage: 10
   weaponAttackSpeed: 0.1
   collidable:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 512
 --- !u!1 &1946134811253638267
 GameObject:
   m_ObjectHideFlags: 0
@@ -414,6 +414,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 212437863b350e4499049bed9b03d9e8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  aggressionBehavior: 0
+  movementBehavior: 0
+  mobBehavior: 0
+  target: {fileID: 0}
 --- !u!114 &1946134811764564788
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -426,6 +430,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d14aa18f5ce8b98408d02a2e52c3f4ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 5
 --- !u!114 &1946134811764564790
 MonoBehaviour:
   m_ObjectHideFlags: 0
