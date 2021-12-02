@@ -479,6 +479,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slime Blue (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
 --- !u!4 &202659799 stripped
@@ -1138,6 +1142,10 @@ PrefabInstance:
     - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
       propertyPath: m_Name
       value: Slime Blue (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
@@ -9705,6 +9713,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slime Blue (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
 --- !u!4 &778079581 stripped
@@ -9934,6 +9946,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slime Blue (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
 --- !u!4 &884317580 stripped
@@ -9995,6 +10011,10 @@ PrefabInstance:
     - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
       propertyPath: m_Name
       value: Slime Blue (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
@@ -10229,6 +10249,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slime Blue
       objectReference: {fileID: 0}
+    - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
 --- !u!4 &987947427 stripped
@@ -10397,6 +10421,10 @@ PrefabInstance:
     - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
       propertyPath: m_Name
       value: Slime Blue (11)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
@@ -10613,6 +10641,10 @@ PrefabInstance:
     - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
       propertyPath: m_Name
       value: Slime Blue (10)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
@@ -13597,6 +13629,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slime Blue (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
 --- !u!4 &1699026922 stripped
@@ -13659,6 +13695,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slime Blue (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
 --- !u!4 &1718668388 stripped
@@ -13720,6 +13760,10 @@ PrefabInstance:
     - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
       propertyPath: m_Name
       value: Slime Blue (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
@@ -14078,6 +14122,10 @@ PrefabInstance:
     - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
       propertyPath: m_Name
       value: Slime Blue (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1007559607277253242, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 82910d853b5e70c41a53f133844f7d55, type: 3}
@@ -14593,6 +14641,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Slime
       objectReference: {fileID: 0}
+    - target: {fileID: 1007559607277253242, guid: a8b6feaa087658c45a8e42233f26cb21, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a8b6feaa087658c45a8e42233f26cb21, type: 3}
 --- !u!1001 &1946134811830784461
@@ -14975,6 +15027,10 @@ PrefabInstance:
     - target: {fileID: 5002112696487472665, guid: 8ba8b79e9b9f6e244adc37e0b2e48bc8, type: 3}
       propertyPath: m_Name
       value: Beholder
+      objectReference: {fileID: 0}
+    - target: {fileID: 5002112696487472665, guid: 8ba8b79e9b9f6e244adc37e0b2e48bc8, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5002112696487472667, guid: 8ba8b79e9b9f6e244adc37e0b2e48bc8, type: 3}
       propertyPath: m_RootOrder

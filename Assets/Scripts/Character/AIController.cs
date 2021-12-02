@@ -34,13 +34,15 @@ public class AIController : MonoBehaviour
 	enum MobBehavior {Solo, Local, Global};
 	[SerializeField] MobBehavior mobBehavior;
 	[SerializeField] Transform target;
-	[SerializeField] Transform hand;
+	[SerializeField] Hand hand;
 	[SerializeField] Weapon weapon;
+
+	[SerializeField] float attackRange = 1;
 	Movement movement;
 	private void Awake() {
 		movement = GetComponent<Movement>();
-		hand = transform.GetChild(0).transform;
-		weapon = hand.GetChild(0).GetComponent<Weapon>();
+		hand = transform.GetChild(0).GetComponent<Hand>();
+		weapon = hand.transform.GetChild(0).GetComponent<Weapon>();
 		if(target == null){
 			target = GameObject.FindGameObjectsWithTag("Player")[0].transform;
 		}
@@ -49,6 +51,8 @@ public class AIController : MonoBehaviour
 
 	void Update()
     {
+		Aim();
+		Attack();
         ActionBehavior();
     }
 
@@ -93,10 +97,20 @@ public class AIController : MonoBehaviour
 
 	void Attack(){
 		if (weapon == null) return;
-
-		//aim towards target
+		
 
 		//if within weapon range 
 		//     then attack
+		Vector2 myPos = new Vector2(transform.position.x,transform.position.y);
+		Vector2 targetPos = new Vector2(target.position.x,target.position.y);
+		if(Vector2.Distance(myPos, targetPos) <= attackRange){
+			weapon.Attack();
+		}
+	}
+
+	void Aim(){
+		if (weapon == null) return;
+		Vector2 targetPos = new Vector2(target.position.x,target.position.y);
+		hand.UpdateHand(targetPos, transform.position);
 	}
 }

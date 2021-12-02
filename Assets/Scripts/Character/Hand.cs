@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Hand : MonoBehaviour
 { 
-     public void UpdateHand(Vector2 mousePos, Vector3 ParentCharacterPos) {
-        transform.up = (mousePos - (Vector2)ParentCharacterPos).normalized;
+     public void UpdateHand(Vector2 target, Vector3 ParentCharacterPos) {
+        transform.up = (target - (Vector2)ParentCharacterPos).normalized;
 	}
 }
