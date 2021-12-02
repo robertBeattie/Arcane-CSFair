@@ -244,7 +244,7 @@ Transform:
   m_Children:
   - {fileID: 5984524312817682568}
   m_Father: {fileID: 5984524313420856474}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
 --- !u!1 &5984524313420856470
 GameObject:
@@ -278,8 +278,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 5984524313922952546}
   - {fileID: 5984524313418390992}
+  - {fileID: 5984524313922952546}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -373,6 +373,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 212437863b350e4499049bed9b03d9e8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  aggressionBehavior: 0
+  movementBehavior: 0
+  mobBehavior: 0
+  target: {fileID: 0}
+  hand: {fileID: 0}
+  weapon: {fileID: 0}
 --- !u!114 &5984524313420856469
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -385,6 +391,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d14aa18f5ce8b98408d02a2e52c3f4ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 5
 --- !u!114 &5984524313420856473
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -428,7 +435,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 5984524313420856474}
-  m_RootOrder: 0
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &5984524313922952547
 SpriteRenderer:

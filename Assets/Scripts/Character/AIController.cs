@@ -34,8 +34,8 @@ public class AIController : MonoBehaviour
 	enum MobBehavior {Solo, Local, Global};
 	[SerializeField] MobBehavior mobBehavior;
 	[SerializeField] Transform target;
-	Transform hand;
-	Weapon weapon;
+	[SerializeField] Transform hand;
+	[SerializeField] Weapon weapon;
 	Movement movement;
 	private void Awake() {
 		movement = GetComponent<Movement>();
