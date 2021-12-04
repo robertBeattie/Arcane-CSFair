@@ -62,7 +62,7 @@ public class AIController : MonoBehaviour
 				RunFrom(target);
 				break;
 			case AggressionBehavior.Neutral:
-				Debug.Log("1");
+				//Debug.Log("1");
 				break;
 			case AggressionBehavior.Aggressive:
 				MoveTowards(target);
