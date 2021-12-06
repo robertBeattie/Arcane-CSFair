@@ -418,6 +418,9 @@ MonoBehaviour:
   movementBehavior: 0
   mobBehavior: 0
   target: {fileID: 0}
+  hand: {fileID: 0}
+  weapon: {fileID: 0}
+  attackRange: 1
 --- !u!114 &1946134811764564788
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -430,7 +433,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d14aa18f5ce8b98408d02a2e52c3f4ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 5
+  speed: 2
 --- !u!114 &1946134811764564790
 MonoBehaviour:
   m_ObjectHideFlags: 0
