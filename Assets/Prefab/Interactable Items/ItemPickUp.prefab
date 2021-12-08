@@ -73,7 +73,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   collidable:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 512
+  item: {fileID: 11400000, guid: 6cbe5a15583b35f48a16ab52e0c5f1cb, type: 2}
 --- !u!1 &298800613724123697
 GameObject:
   m_ObjectHideFlags: 0
@@ -147,7 +148,7 @@ SpriteRenderer:
   m_SortingLayerID: -898059991
   m_SortingLayer: 3
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: e28652149fc5b0342898c33819063a83, type: 3}
+  m_Sprite: {fileID: -3423592253393915645, guid: 81c006c15c097a14083087173a628102, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0

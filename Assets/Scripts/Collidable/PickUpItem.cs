@@ -22,4 +22,8 @@ public class PickUpItem : Collectable
 		}
 
 	}
+
+	public void setItemData(ItemData itemData){
+		item = itemData;
+	}
 }

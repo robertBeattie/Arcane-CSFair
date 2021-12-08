@@ -233,49 +233,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 1007559607277253240, guid: a8b6feaa087658c45a8e42233f26cb21, type: 3}
   m_PrefabInstance: {fileID: 1007559607442134038}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &268098303
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 268098305}
-  - component: {fileID: 268098304}
-  m_Layer: 0
-  m_Name: GameManager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &268098304
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 268098303}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6eaf7f11772a1eb41ba93aaff5e8ac11, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!4 &268098305
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 268098303}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 385640160}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &301563172 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4881181013519984464, guid: c114552e4366f154cbdecbaab771c057, type: 3}
@@ -313,7 +270,6 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 268098305}
   - {fileID: 519420032}
   - {fileID: 2063952960}
   m_Father: {fileID: 0}
@@ -521,7 +477,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 385640160}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &519420033
 MonoBehaviour:
@@ -551,7 +507,9 @@ MonoBehaviour:
   items:
   - {fileID: 11400000, guid: 6cbe5a15583b35f48a16ab52e0c5f1cb, type: 2}
   - {fileID: 11400000, guid: a7a952ebb69cd1f479e3de6d2c42689e, type: 2}
+  - {fileID: 11400000, guid: 57ba9e6d3dc3a5347839ae68df8965f6, type: 2}
   itemPrefab: {fileID: 7696003797123708252, guid: 8865a65abd12ca04bbb9076e84b6f303, type: 3}
+  groundItemPrefab: {fileID: 298800613100705660, guid: cdfbd00c2aa23c94380b07c8d298ad91, type: 3}
   canvasTransform: {fileID: 128463684}
 --- !u!1 &525922005
 GameObject:
@@ -9823,7 +9781,7 @@ Transform:
   - {fileID: 734431232}
   - {fileID: 1669949192}
   m_Father: {fileID: 385640160}
-  m_RootOrder: 2
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2104377141
 PrefabInstance:
