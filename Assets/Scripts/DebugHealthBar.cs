@@ -22,5 +22,10 @@ public class DebugHealthBar : MonoBehaviour
 	void Update()
     {
         healthbar.sizeDelta = new Vector2((characterHealth.GetHealth()/ maxHealth) * scale, healthBarHeight);
+		if(transform.parent.localScale.x == 1){
+			transform.localScale = Vector3.one;
+		}else{
+			transform.localScale = new Vector3(-1, 1, 1);
+		}
 	}
 }

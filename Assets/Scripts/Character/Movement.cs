@@ -35,8 +35,10 @@ public class Movement : MonoBehaviour
         //Swap Sprite direction, wether its going right or left
         if (moveDelta.x < 0) {
             transform.localScale = Vector3.one;
+            
         } else if (moveDelta.x > 0) {
             transform.localScale = new Vector3(-1, 1, 1);
+           
         }
     }
 }
