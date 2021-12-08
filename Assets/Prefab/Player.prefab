@@ -426,7 +426,7 @@ PrefabInstance:
     - target: {fileID: 3755926519039433446, guid: 8269005986ca2f444beb3575b6f00afd, type: 3}
       propertyPath: prefabProjectile
       value: 
-      objectReference: {fileID: 1688058026782910357, guid: 8efb94416c900144cbbe483f9d25af2e, type: 3}
+      objectReference: {fileID: 420605281303661919, guid: 312a2a7f9e123f24bb8edbbc630e0980, type: 3}
     - target: {fileID: 3755926519039433446, guid: 8269005986ca2f444beb3575b6f00afd, type: 3}
       propertyPath: weaponAttackSpeed
       value: 0.33

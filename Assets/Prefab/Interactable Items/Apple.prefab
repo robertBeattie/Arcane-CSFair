@@ -74,6 +74,7 @@ MonoBehaviour:
   collidable:
     serializedVersion: 2
     m_Bits: 512
+  item: {fileID: 11400000, guid: 57ba9e6d3dc3a5347839ae68df8965f6, type: 2}
 --- !u!1 &6073393036648067168
 GameObject:
   m_ObjectHideFlags: 0

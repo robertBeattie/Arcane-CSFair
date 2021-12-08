@@ -50,8 +50,21 @@ public class InventoryController : MonoBehaviour {
         selectedItem = null;
         InsertItem(itemToInsert);
     }
+    public void AddFromGroundToInventory(ItemData itemData){
+        InventoryItem inventoryItem = Instantiate(itemPrefab).GetComponent<InventoryItem>();
+        selectedItem = inventoryItem;        
+        rectTransform = inventoryItem.GetComponent<RectTransform>();
+        rectTransform.SetParent(canvasTransform);
+        rectTransform.SetAsLastSibling();
 
-    private void InsertItem(InventoryItem itemToInsert) {
+        inventoryItem.Set(itemData);
+
+        InventoryItem itemToInsert = selectedItem;
+        selectedItem = null;
+        InsertItem(itemToInsert);
+        
+    }
+    public void InsertItem(InventoryItem itemToInsert) {
         Vector2Int? posOnGrid = selectedItemGrid.FindSpaceForObject(itemToInsert);
 
         if (posOnGrid == null) { return; }
