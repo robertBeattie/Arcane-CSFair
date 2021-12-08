@@ -467,6 +467,21 @@ TextureImporter:
   - first:
       213: 5884123457299879661
     second: Arcane 1_54
+  - first:
+      213: -8339553797498033233
+    second: Arcane 1_55
+  - first:
+      213: 1059492188843641999
+    second: Arcane 1_56
+  - first:
+      213: -4534921809830119004
+    second: Arcane 1_57
+  - first:
+      213: 1872640863802914110
+    second: Arcane 1_58
+  - first:
+      213: 7006195910822250817
+    second: Arcane 1_59
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -1642,8 +1657,8 @@ TextureImporter:
       name: Arcane 1_51
       rect:
         serializedVersion: 2
-        x: 128
-        y: 80
+        x: 96
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -1663,8 +1678,8 @@ TextureImporter:
       name: Arcane 1_52
       rect:
         serializedVersion: 2
-        x: 128
-        y: 112
+        x: 64
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -1684,8 +1699,8 @@ TextureImporter:
       name: Arcane 1_53
       rect:
         serializedVersion: 2
-        x: 96
-        y: 112
+        x: 32
+        y: 128
         width: 32
         height: 32
       alignment: 0
@@ -1705,12 +1720,12 @@ TextureImporter:
       name: Arcane 1_54
       rect:
         serializedVersion: 2
-        x: 64
-        y: 112
+        x: 0
+        y: 128
         width: 32
         height: 32
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1718,6 +1733,111 @@ TextureImporter:
       bones: []
       spriteID: de617e6eb1b98a150800000000000000
       internalID: 5884123457299879661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 1_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabaeda8104f34c80800000000000000
+      internalID: -8339553797498033233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 1_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c8356488214be00800000000000000
+      internalID: 1059492188843641999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 1_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a977e814a8b011c0800000000000000
+      internalID: -4534921809830119004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 1_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e357ad6a1f4fcf910800000000000000
+      internalID: 1872640863802914110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcane 1_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149ca5b7f020b3160800000000000000
+      internalID: 7006195910822250817
       vertices: []
       indices: 
       edges: []
