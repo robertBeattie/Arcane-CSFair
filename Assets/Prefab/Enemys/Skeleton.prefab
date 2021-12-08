@@ -9,6 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 940047561618744113}
+  - component: {fileID: 8415280108926608941}
   m_Layer: 9
   m_Name: Hand
   m_TagString: Untagged
@@ -33,6 +34,18 @@ Transform:
   m_Father: {fileID: 940047561629328763}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 90}
+--- !u!114 &8415280108926608941
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 940047561618744112}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d525b1c579eeccd458f818dd477235ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &940047561629328765
 GameObject:
   m_ObjectHideFlags: 0
@@ -159,6 +172,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 212437863b350e4499049bed9b03d9e8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  aggressionBehavior: 0
+  movementBehavior: 0
+  mobBehavior: 0
+  target: {fileID: 0}
+  hand: {fileID: 0}
+  weapon: {fileID: 0}
+  attackRange: 7
 --- !u!114 &940047561629328761
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -171,6 +191,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d14aa18f5ce8b98408d02a2e52c3f4ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 1.5
 --- !u!114 &940047561629328774
 MonoBehaviour:
   m_ObjectHideFlags: 0

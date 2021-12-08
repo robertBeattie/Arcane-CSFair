@@ -5,6 +5,7 @@ using UnityEngine;
 [RequireComponent(typeof(BoxCollider2D))]
 public class Movement : MonoBehaviour
 {
+    [SerializeField] float speed = 5;
     private BoxCollider2D boxCollider;
     
     void Awake() {
@@ -14,7 +15,7 @@ public class Movement : MonoBehaviour
 
     public void Move(Vector3 moveDelta) {
         FlipSprite(moveDelta);
-
+        moveDelta *= speed;
         //Collision Detection
         RaycastHit2D hit;
         hit = Physics2D.BoxCast(transform.position, boxCollider.size, 0, new Vector2(0, moveDelta.y), Mathf.Abs(moveDelta.y * Time.deltaTime), LayerMask.GetMask("Blocking", "Character"));
