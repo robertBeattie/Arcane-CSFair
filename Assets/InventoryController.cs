@@ -10,6 +10,7 @@ public class InventoryController : MonoBehaviour {
     InventoryItem overlapItem;
     RectTransform rectTransform;
 
+    [SerializeField] Transform player;
     [SerializeField] List<ItemData> items;
     [SerializeField] GameObject itemPrefab;
     [SerializeField] GameObject groundItemPrefab;
@@ -19,6 +20,7 @@ public class InventoryController : MonoBehaviour {
 
     private void Awake() {
         inventoryHighlight = GetComponent<InventoryHighlight>();
+        player = GameObject.FindGameObjectWithTag("Player").transform;
     }
 
     private void Update() {
@@ -74,9 +76,9 @@ public class InventoryController : MonoBehaviour {
     public void DropItemToGround(ItemData itemData){
         System.Random random = new System.Random();
         // rand 0.0-1.0 * (max - min) + min
-        Transform playerTransform = GameObject.FindGameObjectWithTag("Player").transform;
-        float x = playerTransform.position.x + (float)((random.NextDouble() + -.5f) * (2 - 0) + 1);
-        float y = playerTransform.position.y + (float)((random.NextDouble() + -.5f) * (2 - 0) + 1);
+     
+        float x = player.position.x + (float)((random.NextDouble() + -.5f) * (2 - 0) + 1);
+        float y = player.position.y + (float)((random.NextDouble() + -.5f) * (2 - 0) + 1);
         Vector3 pos = new Vector3(x,  y, 0);
         GameObject n = Instantiate(groundItemPrefab, pos, Quaternion.identity);
         groundItemPrefab.GetComponent<PickUpItem>().setItemData(itemData);
