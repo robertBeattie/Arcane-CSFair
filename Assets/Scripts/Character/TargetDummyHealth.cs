@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class TargetDummyHealth : Health
+public class TargetDummyHealth : Character
 {
     bool died = false;
     protected override void onDeath() {

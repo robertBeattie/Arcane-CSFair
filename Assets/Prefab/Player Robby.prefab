@@ -96,7 +96,6 @@ GameObject:
   - component: {fileID: 2936271975935559651}
   - component: {fileID: 2936271975935559648}
   - component: {fileID: 2936271975935559649}
-  - component: {fileID: 4013986213956264277}
   - component: {fileID: 402537859955857328}
   m_Layer: 9
   m_Name: Player Robby
@@ -225,20 +224,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   hand: {fileID: 2936271976063154823}
   weapon: {fileID: 0}
---- !u!114 &4013986213956264277
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2936271975935559652}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3bb5597dc8cf41c40909604884b5f17f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  health: 0
-  maxHealth: 100
 --- !u!114 &402537859955857328
 MonoBehaviour:
   m_ObjectHideFlags: 0

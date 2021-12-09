@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7017086167975993721}
   - component: {fileID: 7017086167975993726}
   - component: {fileID: 7017086167975993727}
-  - component: {fileID: 3462357018964701113}
+  - component: {fileID: 1370606124002214155}
   m_Layer: 9
   m_Name: Target Dummy
   m_TagString: Character
@@ -111,7 +111,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.875, y: 1}
   m_EdgeRadius: 0
---- !u!114 &3462357018964701113
+--- !u!114 &1370606124002214155
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -123,5 +123,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07b1ec92c01f97842a202632a56b4eb8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  stats: {fileID: 11400000, guid: f9322508a70c50e4d8ea04762f85f35a, type: 2}
+  xp: 0
   health: 0
-  maxHealth: 100
+  maxHealth: 0
+  mana: 0
+  maxMana: 0
+  attPwr: 0
+  stamina: 10
+  will: 0
+  physDef: 0
+  magicDef: 0
+  critDmg: 0
+  crit: 0
+  haste: 0
+  evade: 0

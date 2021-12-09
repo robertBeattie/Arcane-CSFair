@@ -5,14 +5,14 @@ using UnityEngine;
 public class DebugHealthBar : MonoBehaviour
 {
     [SerializeField] RectTransform healthbar;
-    [SerializeField] Health characterHealth;
+    [SerializeField] Character characterHealth;
 	float maxHealth;
 	float healthBarHeight;
 	[SerializeField] float scale = 1;
-	private void Awake() {
+	private void Start() {
 		if(characterHealth == null) 
-			characterHealth = GetComponentInParent<Health>();
-		maxHealth = characterHealth.GetMaxHealth();
+			characterHealth = GetComponentInParent<Character>();
+		maxHealth = characterHealth.maxHealth;
 		if (healthbar == null) 
 			healthbar = transform.GetChild(0).GetChild(0).GetChild(0).GetComponentInParent<RectTransform>();
 		healthBarHeight = healthbar.sizeDelta.y;
@@ -21,7 +21,7 @@ public class DebugHealthBar : MonoBehaviour
 	// Update is called once per frame
 	void Update()
     {
-        healthbar.sizeDelta = new Vector2((characterHealth.GetHealth()/ maxHealth) * scale, healthBarHeight);
+        healthbar.sizeDelta = new Vector2((characterHealth.health/ maxHealth) * scale, healthBarHeight);
 		if(transform.parent.localScale.x == 1){
 			transform.localScale = Vector3.one;
 		}else{
