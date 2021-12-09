@@ -6,10 +6,12 @@ using UnityEngine;
 public class PlayerInput : MonoBehaviour
 {
     PlayerMovement movement;
+    GameObject inventory;
     [SerializeField] Hand hand;
     [SerializeField] Weapon weapon;
     void Awake()
     {
+        inventory = GameObject.FindGameObjectWithTag("PlayerInventory");
         movement = GetComponent<PlayerMovement>();
         if (weapon == null) weapon = GetComponentInChildren<Weapon>();
     }
@@ -17,6 +19,7 @@ public class PlayerInput : MonoBehaviour
 	private void Update() {
         MouseInput();
         AttackInput();
+        ToggleUI();
     }
 
 	void FixedUpdate()
@@ -24,6 +27,11 @@ public class PlayerInput : MonoBehaviour
         MovementInput();
     }
 
+    void ToggleUI() {
+        if (Input.GetKeyDown(KeyCode.I)) {
+            inventory.SetActive(!inventory.activeSelf);
+        }
+    }
 
     void MovementInput() {
         float x = Input.GetAxisRaw("Horizontal");

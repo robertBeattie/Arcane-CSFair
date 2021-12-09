@@ -142,7 +142,7 @@ GameObject:
   - component: {fileID: 128463681}
   m_Layer: 5
   m_Name: Canvas
-  m_TagString: Untagged
+  m_TagString: PlayerInventory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -551,6 +551,7 @@ MonoBehaviour:
   items:
   - {fileID: 11400000, guid: 6cbe5a15583b35f48a16ab52e0c5f1cb, type: 2}
   - {fileID: 11400000, guid: a7a952ebb69cd1f479e3de6d2c42689e, type: 2}
+  - {fileID: 11400000, guid: 2561b1c8a3e946c44966f309c7df5590, type: 2}
   itemPrefab: {fileID: 7696003797123708252, guid: 8865a65abd12ca04bbb9076e84b6f303, type: 3}
   canvasTransform: {fileID: 128463684}
 --- !u!1 &525922005
@@ -10246,7 +10247,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2936271975935559652, guid: d634cc142a181114fbcba48e507cb8ac, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2936271975935559654, guid: d634cc142a181114fbcba48e507cb8ac, type: 3}
       propertyPath: m_RootOrder
