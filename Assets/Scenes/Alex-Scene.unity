@@ -142,7 +142,7 @@ GameObject:
   - component: {fileID: 128463681}
   m_Layer: 5
   m_Name: Canvas
-  m_TagString: Untagged
+  m_TagString: PlayerInventory
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -270,8 +270,16 @@ MonoBehaviour:
   sounds:
   - name: BackgroundMusic
     clip: {fileID: 8300000, guid: 81402b49915250143b87dfc08b46fd67, type: 3}
-    volume: 0
-    pitch: 0
+    volume: 0.211
+    pitch: 1
+    loop: 1
+    source: {fileID: 0}
+  - name: MagicShoot
+    clip: {fileID: 8300000, guid: c568209571d21474095f20562d41afad, type: 3}
+    volume: 0.618
+    pitch: 1
+    loop: 0
+    source: {fileID: 0}
 --- !u!4 &328359240
 Transform:
   m_ObjectHideFlags: 0
@@ -10412,7 +10420,8 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 863205307874684097, guid: d634cc142a181114fbcba48e507cb8ac, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: d634cc142a181114fbcba48e507cb8ac, type: 3}
 --- !u!1001 &3446376652253856165
 PrefabInstance:

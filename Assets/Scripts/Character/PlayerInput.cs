@@ -9,10 +9,12 @@ public class PlayerInput : MonoBehaviour
     [SerializeField] Hand hand;
     [SerializeField] Weapon[] weapons;
     Weapon weapon;
+    GameObject inventory;
     void Awake()
     {
         movement = GetComponent<PlayerMovement>();
         if (weapon == null) weapon = GetComponentInChildren<Weapon>();
+        inventory = GameObject.FindGameObjectWithTag("PlayerInventory");
     }
 
     private void Start() {
@@ -23,11 +25,18 @@ public class PlayerInput : MonoBehaviour
         MouseInput();
         AttackInput();
         SkillInput();
+        ToggleUI();
     }
 
 	void FixedUpdate()
     {
         MovementInput();
+    }
+
+    private void ToggleUI() {
+        if (Input.GetKeyDown(KeyCode.I)) {
+            inventory.SetActive(!inventory.activeSelf);
+        }
     }
 
 
@@ -54,6 +63,7 @@ public class PlayerInput : MonoBehaviour
     void AttackInput() {
 		if (Input.GetButton("Fire1")) {
             //anim.Play("SwordSwing");
+            //sound is played in specific weapon attack script
             weapon.Attack();
         }
 	}

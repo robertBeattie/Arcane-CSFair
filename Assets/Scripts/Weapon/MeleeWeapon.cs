@@ -56,6 +56,7 @@ public class MeleeWeapon : Weapon
 
     IEnumerator SwingWeapon() {
         isAttacking = true;
+        FindObjectOfType<AudioManager>().Play("SwordSwoosh");
         int swingAngle = 180;
         int swingDistance = 5;
         int swingRate = swingAngle / swingDistance;

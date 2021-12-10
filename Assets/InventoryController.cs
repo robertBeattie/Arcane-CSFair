@@ -28,12 +28,13 @@ public class InventoryController : MonoBehaviour {
 
         if(Input.GetKeyDown(KeyCode.Q)) {
             if (selectedItem == null) {
-                CreateRandomItem();
+                //CreateRandomItem();
+                InsertRandomItem();
             }
         }
 
         if (Input.GetKeyDown(KeyCode.W)) {
-            InsertRandomItem();
+            //InsertRandomItem();
         }
 
         if (Input.GetKeyDown(KeyCode.R)) {

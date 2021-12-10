@@ -26,4 +26,9 @@ public class AudioManager : MonoBehaviour
         Sound s = Array.Find(sounds, sounds => sounds.name == name);
         s.source.Play();
     }
+
+    // To call any sound from where that ound should be heard in the script, 
+    // ad your sound to the audio manager inside the editor, then
+    // simply copy this line, and replace name with the name of your sound in audioManager
+    // FindObjectOfType<AudioManager>().Play("Name");
 }
