@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 5002112696487472663}
   - component: {fileID: 5002112696487472662}
   - component: {fileID: 5002112696487472661}
-  - component: {fileID: 7057432454097998629}
+  - component: {fileID: 5002112696487472660}
   m_Layer: 9
   m_Name: Beholder
   m_TagString: Character
@@ -130,6 +130,10 @@ MonoBehaviour:
   aggressionBehavior: 1
   movementBehavior: 0
   mobBehavior: 0
+  target: {fileID: 0}
+  hand: {fileID: 0}
+  weapon: {fileID: 0}
+  attackRange: 10
 --- !u!114 &5002112696487472661
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -143,7 +147,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
---- !u!114 &7057432454097998629
+--- !u!114 &5002112696487472660
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -152,24 +156,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 5002112696487472665}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: beb12a285e470964dbd800d0cf0e2e5f, type: 3}
+  m_Script: {fileID: 11500000, guid: 3bb5597dc8cf41c40909604884b5f17f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stats: {fileID: 11400000, guid: b2bb3f2a71a8d3e4ba367379cbbcc9e2, type: 2}
-  xp: 0
   health: 0
-  maxHealth: 0
-  mana: 0
-  maxMana: 0
-  attPwr: 0
-  stamina: 0
-  will: 0
-  physDef: 0
-  magicDef: 0
-  critDmg: 0
-  crit: 0
-  haste: 0
-  evade: 0
+  maxHealth: 180
 --- !u!1 &7255535567498131816
 GameObject:
   m_ObjectHideFlags: 0

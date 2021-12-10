@@ -47,7 +47,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   weaponDamage: 4
   weaponAttackSpeed: 0.33
-  attackRange: 10
   prefabProjectile: {fileID: 1688058026782910357, guid: 23ff10a59de4cca44baa07b7358dbc61, type: 3}
   projectileSpeed: 10
 --- !u!1 &1597123769916768908

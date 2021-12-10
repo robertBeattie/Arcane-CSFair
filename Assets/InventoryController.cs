@@ -33,8 +33,13 @@ public class InventoryController : MonoBehaviour {
             }
         }
 
+<<<<<<< HEAD
         if (Input.GetKeyDown(KeyCode.T)) {
             //InsertRandomItem();
+=======
+        if (Input.GetKeyDown(KeyCode.W)) {
+            InsertRandomItem();
+>>>>>>> parent of be1e80c (enemys)
         }
 
         if (Input.GetKeyDown(KeyCode.R)) {
@@ -49,12 +54,6 @@ public class InventoryController : MonoBehaviour {
         if (Input.GetMouseButtonDown(0)) {
             LeftMouseButtonPress();
         }
-
-        if(Input.GetKeyDown(KeyCode.I)){
-            canvasTransform.gameObject.SetActive(!canvasTransform.gameObject.activeSelf);
-        }
-
-
     }
 
     private void InsertRandomItem() {

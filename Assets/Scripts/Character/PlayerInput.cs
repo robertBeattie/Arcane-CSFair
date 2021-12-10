@@ -84,12 +84,6 @@ public class PlayerInput : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Alpha5)){
             Debug.Log("Skill 5");
         }
-        if(Input.GetKeyDown(KeyCode.Q)){
-            Debug.Log("Skill Q");
-        }
-        if(Input.GetKeyDown(KeyCode.R)){
-            Debug.Log("Skill R");
-        }
     }
 
     void SetWeapon(int i){
