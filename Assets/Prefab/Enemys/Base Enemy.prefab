@@ -339,7 +339,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 212437863b350e4499049bed9b03d9e8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  aggressionBehavior: 0
+  aggressionBehavior: 1
   movementBehavior: 0
   mobBehavior: 0
 --- !u!114 &6903884045639018920
