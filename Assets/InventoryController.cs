@@ -32,7 +32,7 @@ public class InventoryController : MonoBehaviour {
             }
         }
 
-        if (Input.GetKeyDown(KeyCode.W)) {
+        if (Input.GetKeyDown(KeyCode.T)) {
             InsertRandomItem();
         }
 
@@ -48,6 +48,12 @@ public class InventoryController : MonoBehaviour {
         if (Input.GetMouseButtonDown(0)) {
             LeftMouseButtonPress();
         }
+
+        if(Input.GetKeyDown(KeyCode.I)){
+            canvasTransform.gameObject.SetActive(!canvasTransform.gameObject.activeSelf);
+        }
+
+
     }
 
     private void InsertRandomItem() {
