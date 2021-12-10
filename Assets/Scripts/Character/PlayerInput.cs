@@ -7,7 +7,8 @@ public class PlayerInput : MonoBehaviour
 {
     PlayerMovement movement;
     [SerializeField] Hand hand;
-    [SerializeField] Weapon weapon;
+    [SerializeField] Weapon[] weapons;
+    Weapon weapon;
     void Awake()
     {
         movement = GetComponent<PlayerMovement>();
@@ -21,6 +22,7 @@ public class PlayerInput : MonoBehaviour
 	private void Update() {
         MouseInput();
         AttackInput();
+        SkillInput();
     }
 
 	void FixedUpdate()
@@ -58,13 +60,13 @@ public class PlayerInput : MonoBehaviour
 
     void SkillInput() {
         if(Input.GetKeyDown(KeyCode.Alpha1)){
-            Debug.Log("Skill 1");
+            SetWeapon(0);
         }
         if(Input.GetKeyDown(KeyCode.Alpha2)){
-            Debug.Log("Skill 2");
+            SetWeapon(1);
         }
         if(Input.GetKeyDown(KeyCode.Alpha3)){
-            Debug.Log("Skill 3");
+            SetWeapon(2);
         }
         if(Input.GetKeyDown(KeyCode.Alpha4)){
             Debug.Log("Skill 4");
@@ -72,6 +74,12 @@ public class PlayerInput : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Alpha5)){
             Debug.Log("Skill 5");
         }
+    }
+
+    void SetWeapon(int i){
+        weapon.gameObject.SetActive(false);
+        weapons[i].gameObject.SetActive(true);
+        weapon = weapons[i];
     }
 
 }

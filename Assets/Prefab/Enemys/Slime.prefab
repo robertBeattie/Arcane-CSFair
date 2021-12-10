@@ -43,6 +43,10 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6384051383989689960, guid: d83926dc8504ba94a9c0896bba62fba6, type: 3}
+      propertyPath: aggressionBehavior
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6464689072853729694, guid: d83926dc8504ba94a9c0896bba62fba6, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0.4
