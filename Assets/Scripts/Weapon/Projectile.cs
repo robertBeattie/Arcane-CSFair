@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class Projectile : Collidable
 {
-    [SerializeField] float projectileDamage = 10;
+    [SerializeField] int projectileDamage = 10;
     [SerializeField] float projectileSpeed = 10;
     GameObject projectileCreator;
 	protected override void OnColide(Collider2D coll) {
         if ((coll.tag == "Character" || coll.tag == "Blocking") && coll.gameObject != projectileCreator) {
             //Debug.Log(this.gameObject.name + " hit " + coll.name);
             if(coll.tag == "Character") {
-                coll.gameObject.GetComponent<Health>().UpdateHealth(-projectileDamage);
+                coll.gameObject.GetComponent<Character>().UpdateHealth(-projectileDamage);
 
             }
             Destroy(this.gameObject);
@@ -22,7 +22,7 @@ public class Projectile : Collidable
         transform.Translate(transform.up * projectileSpeed * Time.deltaTime, Space.World); 
     }
 
-    public void Set(float damgage, float speed, GameObject creator) {
+    public void Set(int damgage, float speed, GameObject creator) {
         projectileDamage = damgage;
         projectileSpeed = speed;
         projectileCreator = creator;

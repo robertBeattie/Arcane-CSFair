@@ -14,6 +14,10 @@ public class PlayerInput : MonoBehaviour
         if (weapon == null) weapon = GetComponentInChildren<Weapon>();
     }
 
+    private void Start() {
+        gameObject.tag = "Character";
+    }
+
 	private void Update() {
         MouseInput();
         AttackInput();

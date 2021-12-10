@@ -4,8 +4,9 @@ using UnityEngine;
 
 public class Weapon : MonoBehaviour
 {
-    [SerializeField] protected float weaponDamage = 10;
+    [SerializeField] protected int weaponDamage = 10;
     [SerializeField] protected float weaponAttackSpeed = .1f;
+    [SerializeField] public float attackRange = 1;
     float NextAttack = 0;
     protected Transform Hand;
 

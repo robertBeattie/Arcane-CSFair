@@ -41,6 +41,7 @@ public class Character : MonoBehaviour
 
 
     private void ReadinStats() {
+        if(stats == null) return;
         xp = stats.xp;
 
         maxHealth = stats.stamina * STAMINA_TO_HEALTH_MOD;
@@ -58,4 +59,17 @@ public class Character : MonoBehaviour
         evade = stats.evade;
 
     }
+
+    public void UpdateHealth(int mod)
+	{
+        health += mod;
+        //if health <= 0 Throw onDeath Event
+        if(health <= 0) {
+            health = 0;
+            onDeath();
+		}
+	}
+    protected virtual void onDeath() {
+        Destroy(this.gameObject);
+	}
 }

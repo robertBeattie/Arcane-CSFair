@@ -33,11 +33,9 @@ public class AIController : MonoBehaviour
 	*/
 	enum MobBehavior {Solo, Local, Global};
 	[SerializeField] MobBehavior mobBehavior;
-	[SerializeField] Transform target;
-	[SerializeField] Hand hand;
-	[SerializeField] Weapon weapon;
-
-	[SerializeField] float attackRange = 1;
+	Transform target;
+	Hand hand;
+	Weapon weapon;
 	Movement movement;
 	private void Awake() {
 		movement = GetComponent<Movement>();
@@ -103,7 +101,7 @@ public class AIController : MonoBehaviour
 		//     then attack
 		Vector2 myPos = new Vector2(transform.position.x,transform.position.y);
 		Vector2 targetPos = new Vector2(target.position.x,target.position.y);
-		if(Vector2.Distance(myPos, targetPos) <= attackRange){
+		if(Vector2.Distance(myPos, targetPos) <= weapon.attackRange){
 			weapon.Attack();
 		}
 	}
